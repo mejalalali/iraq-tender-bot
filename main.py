@@ -1,19 +1,14 @@
 
 import os
 import json
-import re
 import requests
 
-from bs4 import BeautifulSoup
 from pathlib import Path
 from datetime import datetime
 from zoneinfo import ZoneInfo
 from urllib.parse import urljoin, urlparse
+from playwright.sync_api import sync_playwright
 
-
-# =========================
-# Configuration
-# =========================
 
 BASE_URL = "https://itp.iq"
 TENDERS_URL = (
@@ -23,40 +18,20 @@ TENDERS_URL = (
 
 STATE_FILE = Path("seen_tenders.json")
 
-BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
-CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID")
-
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/130.0.0.0 Safari/537.36"
-    ),
-    "Accept": (
-        "text/html,application/xhtml+xml,"
-        "application/xml;q=0.9,*/*;q=0.8"
-    ),
-    "Accept-Language": "ar,en-US;q=0.9,en;q=0.8",
-}
+BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
+CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
 
-# =========================
-# Telegram
-# =========================
+def clean(value):
+    return " ".join((value or "").split())
+
 
 def send_telegram(message):
     if not BOT_TOKEN or not CHAT_ID:
         raise RuntimeError(
-            "Telegram secrets are missing. "
-            "Check TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID "
-            "in GitHub repository secrets."
+            "Missing TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID secrets."
         )
 
-    api_url = (
-        f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
-    )
-
-    # Telegram messages have a maximum length.
     chunks = [
         message[i:i + 3900]
         for i in range(0, len(message), 3900)
@@ -64,7 +39,7 @@ def send_telegram(message):
 
     for chunk in chunks:
         response = requests.post(
-            api_url,
+            f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage",
             json={
                 "chat_id": CHAT_ID,
                 "text": chunk,
@@ -72,132 +47,90 @@ def send_telegram(message):
             },
             timeout=30,
         )
-
-        print("Telegram HTTP status:", response.status_code)
         response.raise_for_status()
 
-        result = response.json()
-        if not result.get("ok"):
+        if not response.json().get("ok"):
             raise RuntimeError(
-                f"Telegram API error: {result}"
+                f"Telegram API error: {response.text[:500]}"
             )
 
 
-# =========================
-# Helpers
-# =========================
-
-def clean_text(value):
-    return " ".join((value or "").split())
-
-
-def get_cell_values(row):
-    return [
-        clean_text(cell.get_text(" ", strip=True))
-        for cell in row.find_all(["td", "th"])
-    ]
-
-
-def is_tender_link(href):
+def is_tender_url(href):
     if not href:
         return False
 
     full_url = urljoin(BASE_URL, href)
     parsed = urlparse(full_url)
 
-    if parsed.netloc and parsed.netloc.lower() not in {
-        "itp.iq",
-        "www.itp.iq",
-    }:
+    if parsed.netloc.lower() not in ("itp.iq", "www.itp.iq"):
         return False
 
     path = parsed.path.lower()
 
-    # Accept likely tender-detail URLs without assuming
-    # that every detail URL has exactly the same suffix.
     return (
         "/business/tenders/" in path
-        or "/business/tender/" in path
+        or "/iraqi-tenders-prd/" in path
     )
 
 
-def extract_tenders(html):
-    soup = BeautifulSoup(html, "html.parser")
+def extract_tenders(page):
+    # Inspect rendered page, not only the original HTML.
+    page.wait_for_timeout(8000)
 
-    print(
-        "Page title:",
-        soup.title.get_text(" ", strip=True)
-        if soup.title else "No title found",
-    )
-    print("HTML length:", len(html))
-    print("Table rows:", len(soup.select("tr")))
-    print("Table cells:", len(soup.select("td")))
-    print("Links found:", len(soup.select("a[href]")))
+    print("Rendered title:", page.title())
+    print("Rendered URL:", page.url)
+    print("Rendered HTML length:", len(page.content()))
+    print("Rendered links:", page.locator("a[href]").count())
+    print("Rendered rows:", page.locator("tr").count())
 
     tenders = {}
 
-    # First attempt: table-based listing.
-    for row in soup.select("tr"):
-        cells = row.find_all("td")
-        links = [
-            a for a in row.select("a[href]")
-            if is_tender_link(a.get("href"))
-        ]
-
-        if not links:
-            continue
-
+    # First try table rows.
+    rows = page.locator("tr")
+    for i in range(rows.count()):
+        row = rows.nth(i)
+        links = row.locator("a[href]")
         values = [
-            clean_text(cell.get_text(" ", strip=True))
-            for cell in cells
+            clean(x)
+            for x in row.locator("td").all_text_contents()
         ]
 
-        link = links[0]
-        url = urljoin(BASE_URL, link.get("href", ""))
-        key = url.rstrip("/").split("/")[-1]
+        for j in range(links.count()):
+            link = links.nth(j)
+            href = link.get_attribute("href") or ""
 
-        if not key:
-            continue
-
-        title = clean_text(link.get_text(" ", strip=True))
-
-        # Use table cells where available.
-        number = values[0] if values else "نامشخص"
-
-        if len(values) > 1:
-            title = values[1] or title
-
-        entity = values[2] if len(values) > 2 else "نامشخص"
-        published = values[4] if len(values) > 4 else "نامشخص"
-        deadline = values[5] if len(values) > 5 else "نامشخص"
-
-        if not title:
-            title = "عنوان در صفحه مشخص نیست"
-
-        tenders[key] = {
-            "number": number,
-            "title": title,
-            "entity": entity,
-            "published": published,
-            "deadline": deadline,
-            "url": url,
-        }
-
-    # Second attempt: tender-detail links outside tables.
-    # This may help if the website changes its table layout.
-    if not tenders:
-        print(
-            "No table tenders found. "
-            "Trying links outside tables..."
-        )
-
-        for link in soup.select("a[href]"):
-            href = link.get("href", "")
-
-            if not is_tender_link(href):
+            if not is_tender_url(href):
                 continue
 
-            title = clean_text(link.get_text(" ", strip=True))
+            url = urljoin(BASE_URL, href)
+            key = url.rstrip("/").split("/")[-1]
+            title = clean(link.inner_text())
+
+            if not key or not title:
+                continue
+
+            tenders[key] = {
+                "number": values[0] if values else "نامشخص",
+                "title": values[1] if len(values) > 1 else title,
+                "entity": values[2] if len(values) > 2 else "نامشخص",
+                "published": values[4] if len(values) > 4 else "نامشخص",
+                "deadline": values[5] if len(values) > 5 else "نامشخص",
+                "url": url,
+            }
+
+    # Fallback: rendered detail links outside tables.
+    if not tenders:
+        links = page.locator("a[href]")
+        print("Searching rendered detail links...")
+
+        for i in range(links.count()):
+            link = links.nth(i)
+            href = link.get_attribute("href") or ""
+
+            if not is_tender_url(href):
+                continue
+
+            title = clean(link.inner_text())
             if not title:
                 continue
 
@@ -207,10 +140,13 @@ def extract_tenders(html):
             if not key:
                 continue
 
-            parent_text = clean_text(
-                link.parent.get_text(" ", strip=True)
-                if link.parent else ""
-            )
+            parent_text = ""
+            try:
+                parent_text = clean(
+                    link.locator("xpath=..").inner_text()
+                )
+            except Exception:
+                pass
 
             tenders[key] = {
                 "number": "نامشخص",
@@ -222,58 +158,19 @@ def extract_tenders(html):
                 "listing_text": parent_text[:500],
             }
 
-    print("Parsed tenders:", len(tenders))
-
-    # Diagnostic sample: show some URLs if extraction fails.
-    if not tenders:
-        print("No tender links were recognized.")
-        print("Sample links from page:")
-
-        for link in soup.select("a[href]")[:20]:
-            print(
-                "-",
-                clean_text(link.get_text(" ", strip=True))[:100],
-                "|",
-                link.get("href"),
-            )
-
-        # Save a small HTML sample for diagnostics in the logs.
-        print("HTML sample:")
-        print(html[:1500])
-
+    print("Extracted tenders:", len(tenders))
     return tenders
 
 
-# =========================
-# History
-# =========================
-
-def load_previous():
+def load_history():
     try:
-        data = json.loads(
-            STATE_FILE.read_text(encoding="utf-8")
-        )
+        data = json.loads(STATE_FILE.read_text(encoding="utf-8"))
         return data if isinstance(data, dict) else {}
     except (FileNotFoundError, json.JSONDecodeError):
         return {}
 
 
-def save_history(tenders):
-    STATE_FILE.write_text(
-        json.dumps(
-            tenders,
-            ensure_ascii=False,
-            indent=2,
-        ),
-        encoding="utf-8",
-    )
-
-
-# =========================
-# Report
-# =========================
-
-def build_report(now, tenders, previous):
+def make_report(now, tenders, previous):
     changes = []
 
     for key, tender in tenders.items():
@@ -281,11 +178,9 @@ def build_report(now, tenders, previous):
 
         if old is None:
             changes.append(("🆕 آگهی جدید در فهرست", tender))
-
         elif old.get("deadline") != tender.get("deadline"):
             changes.append(("⚠️ تغییر احتمالی مهلت", tender))
 
-    # First successful run: report existing listings too.
     if not previous:
         changes = [
             ("📌 آگهی موجود در فهرست", tender)
@@ -301,10 +196,7 @@ def build_report(now, tenders, previous):
     ]
 
     if not changes:
-        lines.append(
-            "در مقایسه با سابقه ذخیره‌شده، "
-            "مورد جدید یا تغییر مهلتی شناسایی نشد."
-        )
+        lines.append("مورد جدید یا تغییر مهلت شناسایی نشد.")
 
     for label, tender in changes[:20]:
         lines.extend([
@@ -312,81 +204,95 @@ def build_report(now, tenders, previous):
             f"عنوان: {tender.get('title', 'نامشخص')}",
             f"سازمان: {tender.get('entity', 'نامشخص')}",
             f"شماره: {tender.get('number', 'نامشخص')}",
-            f"تاریخ انتشار: {tender.get('published', 'نامشخص')}",
+            f"انتشار: {tender.get('published', 'نامشخص')}",
             f"مهلت: {tender.get('deadline', 'نامشخص')}",
             f"لینک: {tender.get('url', '')}",
             "",
         ])
 
     lines.extend([
-        "منبع: پورتال ITP عراق",
-        "توجه: استخراج‌شدن یک آگهی به‌تنهایی به معنی فعال‌بودن آن نیست.",
-        "تاریخ و مهلت هر آگهی باید از منبع رسمی تأیید شود.",
+        "منبع: ITP عراق",
+        "توجه: فعال‌بودن و مهلت مناقصه باید در منبع رسمی تأیید شود.",
         "این گزارش تضمین‌کننده پوشش تمام نهادهای دولتی نیست.",
     ])
 
     return "\n".join(lines)
 
 
-# =========================
-# Main
-# =========================
-
 def main():
     now = datetime.now(ZoneInfo("Asia/Baghdad"))
+    network_urls = []
 
-    print("Starting Iraq tender bot...")
+    print("Starting ITP browser monitor")
     print("Baghdad time:", now.isoformat())
-    print("Request URL:", TENDERS_URL)
+    print("Target:", TENDERS_URL)
 
-    try:
-        response = requests.get(
-            TENDERS_URL,
-            headers=HEADERS,
-            timeout=40,
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_page(
+            locale="ar-IQ",
+            user_agent=(
+                "Mozilla/5.0 (X11; Linux x86_64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/130.0.0.0 Safari/537.36"
+            ),
         )
 
-        print("ITP HTTP status:", response.status_code)
-        print("Final URL:", response.url)
-        print(
-            "Content-Type:",
-            response.headers.get("Content-Type"),
-        )
+        def record_request(request):
+            url = request.url
+            low = url.lower()
 
-        response.raise_for_status()
+            if any(term in low for term in (
+                "api", "tender", "graphql", "business"
+            )):
+                if len(network_urls) < 100:
+                    network_urls.append(url)
 
-    except requests.RequestException as exc:
-        raise RuntimeError(
-            f"Failed to retrieve ITP page: {exc}"
-        ) from exc
+        page.on("request", record_request)
 
-    content_type = response.headers.get("Content-Type", "")
-    if "html" not in content_type.lower():
-        print(
-            "Warning: response Content-Type is not HTML:",
-            content_type,
-        )
+        try:
+            response = page.goto(
+                TENDERS_URL,
+                wait_until="domcontentloaded",
+                timeout=60000,
+            )
 
-    tenders = extract_tenders(response.text)
+            print(
+                "Initial navigation status:",
+                response.status if response else "No response",
+            )
 
-    if not tenders:
-        raise RuntimeError(
-            "No tenders could be extracted from ITP. "
-            "Review the diagnostic logs above. "
-            "No Telegram report was sent."
-        )
+            tenders = extract_tenders(page)
 
-    previous = load_previous()
-    report = build_report(now, tenders, previous)
+            if not tenders:
+                print("No tender records extracted.")
+                print("Relevant network requests:")
+                for url in network_urls:
+                    print("NETWORK:", url)
 
-    # Send first. Save state only after successful delivery.
+                print("Rendered page text sample:")
+                print(page.locator("body").inner_text()[:3000])
+
+                raise RuntimeError(
+                    "No tenders extracted. See rendered page and "
+                    "network diagnostics above."
+                )
+
+        finally:
+            browser.close()
+
+    previous = load_history()
+    report = make_report(now, tenders, previous)
+
+    # Save history only after Telegram confirms successful delivery.
     send_telegram(report)
-    save_history(tenders)
 
-    print(
-        f"Success: report sent. "
-        f"Parsed {len(tenders)} tender records."
+    STATE_FILE.write_text(
+        json.dumps(tenders, ensure_ascii=False, indent=2),
+        encoding="utf-8",
     )
+
+    print(f"Report sent. Extracted {len(tenders)} records.")
 
 
 if __name__ == "__main__":
