@@ -1,156 +1,4 @@
 {
-  "9058a9ed-8b7c-4f3c-8d28-ff86b5d7007c": {
-    "version_id": "56ccf3be-4906-4e2a-abe5-1fc3967e0dfe",
-    "deadline": "2026-11-08 10:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "2026/32",
-    "title": "تحميل وتفريغ وتعبئة وتنضيد ورزم وخياطة مواد الشركة داخل مطحنة العمارة الحكومية مرةالثانية"
-  },
-  "43ff0e9b-1e7c-4efe-8842-cc64947d40e3": {
-    "version_id": "66ff79a7-31ae-4150-a384-23b11bc38f03",
-    "deadline": "2026-11-08 11:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "1 في 2026",
-    "title": "شراء آلية كانسة شوارع ميكانيكية"
-  },
-  "ba3fee96-3f5e-444b-8b13-dc85a9b1f2d5": {
-    "version_id": "0c49fc8d-f9ab-48da-8c31-ce74b71875c3",
-    "deadline": "2026-11-08 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "1",
-    "title": "ابداء اهتمام"
-  },
-  "9bd2d9a6-4715-479d-8551-209c338f7e31": {
-    "version_id": "f831e45e-576e-4de2-94ab-ae43dd3ad61c",
-    "deadline": "2026-11-08 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "1/2026",
-    "title": "قلع واعادة انشاء محطة تعبئة الطليعة الحكومية"
-  },
-  "3422f2da-d377-4bfc-8a40-247def188e63": {
-    "version_id": "4ce68bed-660a-4509-9a9c-e72599658043",
-    "deadline": "2026-11-08 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "2026/4",
-    "title": "تجهيز معهد التدريب النفطي / كركوك /قسم التصفية ب(1-جهاز انتقال الحرارة 2-جهاز تجفيف الهواء بالامتزاز 3-حمام مائي 4-جهاز تحليل نوانتج احتراق غازات العادم)"
-  },
-  "22f67877-9be3-43c5-b28b-99da7141d696": {
-    "version_id": "cc5096db-bd79-4c86-930d-e130bdf58a0a",
-    "deadline": "2026-11-08 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "2026/6",
-    "title": "تجهيز معهد التدريب النفطي / كركوك /قسم الميكانيك بجهاز قطع بلازما يدوي وجهاز التثقيب الحار (manual plasma cutting machine-hot tap machine)"
-  },
-  "f40be0a9-dbe2-4abe-9979-6de461d4726f": {
-    "version_id": "0beb5137-7baf-4d8d-b61e-991a88488499",
-    "deadline": "2026-11-08 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "237",
-    "title": "مجمع تجاري متكامل الخدمات"
-  },
-  "cc377803-a651-465b-9674-701c218d8711": {
-    "version_id": "b06f3456-6ade-4b3e-8cb9-35678f840e02",
-    "deadline": "2026-11-08 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "3-2026",
-    "title": "المناقصة رقم 3 لسنة 2026 للمرة الاولى"
-  },
-  "6ee95ed9-2dc8-40ed-a5ec-56bcf975e000": {
-    "version_id": "53cf5bac-46a1-42c7-9c09-0bce2b51fe7a",
-    "deadline": "2026-11-08 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "3/2026",
-    "title": "نقل منتسبي فرع الانبار"
-  },
-  "a6bb8e33-1dad-4641-ba06-4e20f4480ef0": {
-    "version_id": "305c32ec-31de-4f60-a4d8-16b829ff984f",
-    "deadline": "2026-11-08 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "596/2026",
-    "title": "مشروع توسعة سقيفة المعدات الدوارة"
-  },
-  "d33acd06-652e-4613-9912-6fc7d8079328": {
-    "version_id": "f0aafd42-b1d7-4930-925c-fbe7fbfab664",
-    "deadline": "2026-11-08 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "HG-4-2026",
-    "title": "تجهيز معطل الفناديوم لمحطة كهرباء الحيدرية الغازية"
-  },
-  "3d46fb46-709c-4ba4-ac88-5a6cc54cb439": {
-    "version_id": "fb9d2cd4-ac9f-4ae2-bbb1-a42a684370e6",
-    "deadline": "2026-11-08 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "SN/24-2026",
-    "title": "تجهيز سلات احتراق كاملة لوحدات FIAT TG 20 B7/8 لمحطة كهرباء الدبس الغازية"
-  },
-  "73ae4710-e209-4179-9b6b-d718e0747d45": {
-    "version_id": "e42ab862-fb3c-4a88-bc14-f0f4536ba737",
-    "deadline": "2026-11-08 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "ابداء اهتمام ’",
-    "title": "تقديم خدمات مختبرية والدراسات المكمنية والفنية والتخصصية للعينات الصخرية والموائع والمياه المكمنية"
-  },
-  "16bf993b-7caf-4cc9-8378-910f3a53e4cb": {
-    "version_id": "6ba3df08-9960-40e2-b0e7-3dd8d3060379",
-    "deadline": "2026-11-08 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "المناقصة رقم (2) لسنة 2026",
-    "title": "إعادة تأهيل بناية رئاسة جامعة القادسية"
-  },
-  "f635b938-c3f8-495f-84db-c05a90fb0f34": {
-    "version_id": "91208856-5b3d-4a7f-b215-9d3c537d4ab2",
-    "deadline": "2026-11-08 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "ق ت / 2026 / صندوق 1",
-    "title": "مشروع انشاء قسم التحليلات المرضية في كلية العلوم / جامعة ذي قار"
-  },
-  "4f204bff-3201-43b2-b8e7-daa7b27925f5": {
-    "version_id": "13e9a930-56ee-4d7f-a55a-7e7580818baf",
-    "deadline": "2026-11-08 13:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "5/م/ب ن م /2026",
-    "title": "تجهيز مقاطع حديدية لهيكل جسر السودة الثاني المنشأ صيني او ايراني"
-  },
-  "69de4074-7dd4-4fd2-943b-c03a508ffe22": {
-    "version_id": "7ebf045a-e1dd-4591-8155-ad6fd3706638",
-    "deadline": "2026-11-08 13:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "6/م/ ب ن م/ 2026",
-    "title": "تجهيز اسلاك شبكة تاريض مستودع الطوبة النفطي"
-  },
-  "53051f7e-a3f4-491a-8d6d-f93e05398fd6": {
-    "version_id": "82944608-74d8-4240-a388-779455b00314",
-    "deadline": "2026-11-08 13:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "9 - 2026",
-    "title": "تجهيز عدة لصيانة الصمامات والمبادلات"
-  },
-  "547bac18-93a0-42c6-88d4-35eaf580d3d7": {
-    "version_id": "192f41d4-91f4-4eb8-bfa9-6a5bebe7e6c9",
-    "deadline": "2026-11-08 14:30",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "MED -5-2026-Bb",
-    "title": "مناقصة عامة لتجهيز الأدوية"
-  },
   "859dd7cd-5b4c-4c32-92d5-d6235c54fa81": {
     "version_id": "e0a5d802-00fe-4c0d-bf39-ae254f929c6b",
     "deadline": "2026-11-09 11:00",
@@ -719,6 +567,14 @@
     "number": "2026/6",
     "title": "مناقصة عامة لتجهيز الأدوية"
   },
+  "aa74a7b4-f3ae-4284-88d6-5f1e3cb2a6fe": {
+    "version_id": "f9127f1e-fde0-4596-835c-7c30625ac339",
+    "deadline": "2026-11-17 11:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "1/2026",
+    "title": "تجهيز أجهزة cpap عدد 12"
+  },
   "06090a8b-474b-4548-b08b-2f8b343f1ff5": {
     "version_id": "ca7cee6f-46c7-4b08-9734-9949ef7ae758",
     "deadline": "2026-11-17 12:00",
@@ -967,6 +823,14 @@
     "number": "4",
     "title": "مشروع مدرسة اهلية"
   },
+  "91e79a48-b4e9-45ff-87e3-af629ed3e921": {
+    "version_id": "4c8a0575-555b-4212-a943-fab3e59fd1a7",
+    "deadline": "2026-11-19 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "L2G-055",
+    "title": "اعادة اعلان مناقصة تأهيل مواد المسار الحار لترابين الوحدات 1و2 لمحطة كهرباء الصدر الغازية"
+  },
   "1626fd32-0adc-4c42-936a-55c86e6160fb": {
     "version_id": "8279d487-4f3a-4575-9e1b-970591ec11f9",
     "deadline": "2026-11-19 12:00",
@@ -999,6 +863,22 @@
     "number": "ت2026/8",
     "title": "تجهيز أعمدة حديدية مغلونة مدورة 9 م مختلفة"
   },
+  "81fc6c1d-035a-40ad-b0f0-77f4f80dbc84": {
+    "version_id": "d0365eb7-40af-4c77-881a-27e483eafbe2",
+    "deadline": "2026-11-19 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "ت2د/2026",
+    "title": "تجهيز محولات توزيع0.4/11كف سعة 400كفا بكمية 55 محولة"
+  },
+  "a12c86a5-6a8e-4f86-9467-af3764994ff6": {
+    "version_id": "812edfd4-f13f-47b1-8468-70207113a7bd",
+    "deadline": "2026-11-19 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "ت3ن/2026",
+    "title": "تجهيز محولات توزيع جهد 0.4/11 كف سعة 250 كفا بكمية 65 محولة"
+  },
   "b56010b1-9e4a-4ff2-8ad5-67525a8572f2": {
     "version_id": "1ec514a8-3821-4a92-a4f3-f177fa98f173",
     "deadline": "2026-11-19 12:00",
@@ -1006,6 +886,14 @@
     "extension_count": 0,
     "number": "ك2/استئجار رافعة سلكية ورافعة شوكية في جهاز الحفر 222 - للمرة الاول",
     "title": "ك2/استئجار رافعة سلكية ورافعة شوكية في جهاز الحفر 222/2026"
+  },
+  "36a6c774-a9bb-4c7e-bf6d-c306c281b13c": {
+    "version_id": "95951f35-4c89-449f-84c5-dc74c38784e9",
+    "deadline": "2026-11-19 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "م.ر 1 / 2026",
+    "title": "تجهيز محولات توزيع سعة 400 ك ف أ"
   },
   "a8a10ccb-5dde-4a06-b755-619568909153": {
     "version_id": "5917151b-9a5b-435a-95cf-a62c64a849d5",
@@ -1095,6 +983,22 @@
     "number": "M-15-2026",
     "title": "تجهيز مضخات ماء لمحطة المسيب الحرارية"
   },
+  "3d46fb46-709c-4ba4-ac88-5a6cc54cb439": {
+    "version_id": "b5ee964c-5e57-4ec8-9bfc-74a95abc5e75",
+    "deadline": "2026-11-22 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "SN/24-2026",
+    "title": "تجهيز سلات احتراق كاملة لوحدات FIAT TG 20 B7/8 لمحطة كهرباء الدبس الغازية"
+  },
+  "7ce5e212-ad35-4a21-bd99-1f5c89ed74e3": {
+    "version_id": "40dd67fc-a94f-4883-94bb-651624af4b55",
+    "deadline": "2026-11-22 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "SN/31-2026",
+    "title": "تجهيز مواد احتياطية للوحدات f.6 لمحطة كهرباء الشهيد المهندس عبدالله حمزة الغازية"
+  },
   "69f7630d-7df7-4cd5-a9bb-f2749520fa52": {
     "version_id": "46900861-2231-4e2f-ac94-965ee3c78488",
     "deadline": "2026-11-22 12:00",
@@ -1167,6 +1071,14 @@
     "number": "2442 - 2026",
     "title": "SPARE PARTS OF GEAR REDUCER FOR STEAM BOILER FORCED DRAFT FANS"
   },
+  "89c1155d-acd6-46cc-a6e7-64867d53bb1d": {
+    "version_id": "07716ff7-b79b-478b-9919-4be5f284f63e",
+    "deadline": "2026-11-24 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "L8G-007",
+    "title": "نقل النفط الخام من حقل شرق بغداد النهروان الى المحطة وبكمية 8000م3 لمحطة كهرباء عكاز الغازية"
+  },
   "97b81365-442b-4618-80b2-499f647cd528": {
     "version_id": "ee4a742c-10b2-4fd4-ab29-ae082b34f71a",
     "deadline": "2026-11-24 14:30",
@@ -1190,6 +1102,14 @@
     "extension_count": 0,
     "number": "( MOE-HQ13 / 2026) / اعلان للمرة الاولى",
     "title": "(شراء الطاقة الكهربائية لصالح وزارة الكهرباء عبر محطات عائمة \"البارجات\" بحمل 500 ميكاواط ترسو في محافظة البصرة في موقعي (خور الزبير 300 ميكاواط) و (ام قصر 200 ميكاواط))"
+  },
+  "eac2cb8b-c172-4ca5-bdae-7a38de6f9df4": {
+    "version_id": "bbdc1e84-fb84-4cc2-8c88-a2395dd7874f",
+    "deadline": "2026-11-25 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "43/ب/2026",
+    "title": "انشاء ابنية وطرق BRC وسياج لمشروع الوحدة الريادية لطبقة الطيارات في حقل اللحيس النفطي"
   },
   "c5801ed9-d5ec-4b3a-adec-400d30a3aeaa": {
     "version_id": "5fc42465-7f5d-468a-b6b5-306ecca4b492",
@@ -1495,6 +1415,22 @@
     "number": "25/2026",
     "title": "تجهيز فلاتر و صمامات منظومة العزل D.G للكابسة الدوارة 502 JT و فلاتر التزييت للكابسات الترددية 205 JC,JD"
   },
+  "90cbf76b-99f3-4474-9162-2ee62a32ba66": {
+    "version_id": "5513091d-15fc-4d6c-a010-bb88600f859f",
+    "deadline": "2026-12-07 14:30",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "SUP 91 NUS/2026/92",
+    "title": "مستلزمات جراحة العصبية / معمرة أساسي"
+  },
+  "27337dac-4176-44e8-bcee-22ab53a331a5": {
+    "version_id": "c705c9b0-d1f0-4258-9bbf-0831cf6f20bd",
+    "deadline": "2026-12-07 14:30",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "SUP 91 PLA/2026/93",
+    "title": "مستلزمات جراحة تقويمية / نبيذة أساسي ومعمرة أساسي"
+  },
   "b106ba77-64ba-4609-a82e-de369609f617": {
     "version_id": "43095382-6755-4a30-87b5-2131e2320bce",
     "deadline": "2026-12-08 14:30",
@@ -1542,14 +1478,6 @@
     "extension_count": 0,
     "number": "24/2026",
     "title": "Supply goods to update and operate the meter system in De Qar refinery"
-  },
-  "f1b7c935-1ae4-4593-b6a3-3e4d49307dbd": {
-    "version_id": "5c73ea1f-6c50-4cc9-821b-1b3721d07563",
-    "deadline": "2026-11-08 14:30",
-    "status": "Published",
-    "extension_count": 1,
-    "number": "LAB 86-2026-12",
-    "title": "مستلزمات ( أمراض الدم )"
   },
   "66a6ebd0-2192-4354-bec6-7a27a17a632a": {
     "version_id": "f04a8e67-900b-475f-96aa-45ce191f431d",
