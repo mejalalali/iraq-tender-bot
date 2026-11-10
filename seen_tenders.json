@@ -1,84 +1,4 @@
 {
-  "cb5cc0b7-c4a8-42e0-af81-8e9ad6f34abf": {
-    "version_id": "cd86c654-4123-4974-b46d-4fb7b9f352be",
-    "deadline": "2026-11-10 10:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "2026/9",
-    "title": "نقل وتفريغ الطحين في محافظة البصرة للمرة الثانية"
-  },
-  "ab217925-c19c-4887-8d39-eba74a713d19": {
-    "version_id": "ebbdc6c1-2d98-42d2-9843-51561c394817",
-    "deadline": "2026-11-10 10:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "LMD-14/2026",
-    "title": "مناقصة تجهيز مواد السلامة والدفاع المدني والبيئة"
-  },
-  "fccd9e80-0e9c-433e-856e-38c7877ef213": {
-    "version_id": "4b6eec35-9666-43ca-a7dc-2369a6be9aea",
-    "deadline": "2026-11-10 11:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "3_2026",
-    "title": "منظومة الطاقة الشمسية"
-  },
-  "35b618f0-78d4-4766-8c66-f6ae3a68ad9e": {
-    "version_id": "a934b5f5-0760-4922-8d62-3130cc34e956",
-    "deadline": "2026-11-10 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "1",
-    "title": "مشروع ترفيهي"
-  },
-  "aaf2f925-2fe6-4e2e-b81c-84a1a20d3f47": {
-    "version_id": "04c0415e-2673-472f-9a53-9c2db6584a41",
-    "deadline": "2026-11-10 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "11/26/9009",
-    "title": "تجهيز جهاز قياس تركيز كبريتيد الهيدروجين المذاب في النفط الخام SETA Analytic"
-  },
-  "ebd58e7c-4090-4b1c-9425-e74fd5c1ab8b": {
-    "version_id": "a9e54352-f0f3-4507-bf90-86559b99dc00",
-    "deadline": "2026-11-10 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "5",
-    "title": "تنظيف بنايات مصرف الرافدين"
-  },
-  "e92d4456-b6fb-4adc-9017-b92c78a1bd13": {
-    "version_id": "0155ad55-c9db-49b6-8483-4e87af271c76",
-    "deadline": "2026-11-10 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "604/2026",
-    "title": "تأهيل الحديقة الرئيسية و زيادة المساحات الخضراء في الشركة"
-  },
-  "136a6b74-5dfc-41fb-bef2-f1bee3ef0759": {
-    "version_id": "069cb4cc-4678-4df4-990c-07fd41fd48d4",
-    "deadline": "2026-11-10 13:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "218/2026",
-    "title": "Line Pipe"
-  },
-  "751e6192-6272-4f86-85c2-2ec97100923c": {
-    "version_id": "21f7fa40-bdf5-450b-961b-322ff50f867c",
-    "deadline": "2026-11-10 14:30",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "SUP 89/2026/77",
-    "title": "مستلزمات العقم وأطفال الأنابيب / معمرة أساسي"
-  },
-  "f1798bf2-37c9-4dba-9493-666f051dc84b": {
-    "version_id": "2c8c63c5-6d68-4ea8-8ce7-da2fe0c97268",
-    "deadline": "2026-11-10 14:30",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "SUP 93/2026/84",
-    "title": "مستلزمات تخدير / نبيذة أساسي"
-  },
   "2f0002f3-966c-4333-ab0d-dc9893e78e79": {
     "version_id": "4df053c4-43cf-4b93-a0f9-7e48746470f8",
     "deadline": "2026-11-11 11:00",
@@ -144,7 +64,7 @@
     "title": "مواد النسيج المرضي"
   },
   "907c8b5d-0fa1-435a-948f-4fa1f17da93f": {
-    "version_id": "38e9c4a8-5355-48b3-8f3f-f3227e8adee6",
+    "version_id": "22e264f4-a455-4cb8-bd8d-190c37c9b52c",
     "deadline": "2026-11-12 10:00",
     "status": "Published",
     "extension_count": 0,
@@ -271,14 +191,6 @@
     "number": "Vacc - 1- 2026-Aa",
     "title": "مناقصة عامة لتجهيز الأدوية"
   },
-  "fb180f44-f965-4940-b1bf-c40c07f18c47": {
-    "version_id": "916f34c9-431a-4915-b777-874f4007bf90",
-    "deadline": "2026-11-12 14:30",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "Vacc-2-2026-A",
-    "title": "مناقصة عامة لتجهيز الأدوية"
-  },
   "11ac8f53-1963-41dd-be7a-6f9f217deabe": {
     "version_id": "43dc5591-55ac-446e-8966-e06a6130e5a0",
     "deadline": "2026-11-15 10:00",
@@ -288,7 +200,7 @@
     "title": "نقل وتفريغ الطحين في محافظة ديالى للمرة الثانية"
   },
   "c1ced673-00e0-48ba-a3e6-3d952586036e": {
-    "version_id": "b4f5ec83-f6ce-4e92-b305-f1b72513e4ef",
+    "version_id": "73b3f724-d9ce-4303-9b86-fe0efab5dcae",
     "deadline": "2026-11-15 12:00",
     "status": "Published",
     "extension_count": 0,
@@ -951,6 +863,14 @@
     "number": "ت2026/5",
     "title": "تجهيز محولات توزيع جهد (0.4/11) ك.ف سعة400 كفا ذات ملف نحاسي بكمية 4000 محولة"
   },
+  "0edc219d-de82-4bf6-9eb3-df45b5ac3a1c": {
+    "version_id": "3cd62e4e-8d7f-4e5a-b2ae-b43fa1485297",
+    "deadline": "2026-11-22 13:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "3/2026",
+    "title": "تجهيز شركتنا بمادة النتروجين (N2) وبكمية 1500 م3"
+  },
   "1ee2248b-7319-48aa-9fba-c3d3297200a9": {
     "version_id": "45ee358b-8e88-4ed2-bea2-e9f708a71eca",
     "deadline": "2026-11-23 11:00",
@@ -967,6 +887,22 @@
     "number": "2002/26/75",
     "title": "تجهيز اجهزة معالجة ونمذجة اللباب الصخري (اعلان اول )"
   },
+  "65c77f9d-d9a7-487f-9b3b-cfa4753fddbe": {
+    "version_id": "8d9fb38a-53d2-4f53-81d7-b379ecad6033",
+    "deadline": "2026-11-23 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "27/2026",
+    "title": "تجهيز مقياس طاقة ذكي احادي الطور + ثلاثي الطور 100 A"
+  },
+  "0f697d00-d0c6-44de-8c18-71cdfa4d6111": {
+    "version_id": "3233f227-5123-49e3-8a7c-5a4c99f55b72",
+    "deadline": "2026-11-23 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "4/ 2026",
+    "title": "نقل الغاز السائل لصالح وزارة النفط"
+  },
   "a887de73-afa3-42b2-a1a3-a90dfae7d360": {
     "version_id": "7fdec8e8-d60c-4b66-a127-30ee603d58b0",
     "deadline": "2026-11-23 12:00",
@@ -974,6 +910,14 @@
     "extension_count": 0,
     "number": "5728/QR-01/2025 ت2026/9",
     "title": "تصميم وتجهيز الموادلخاصة بخزان البنزين عدد (1) سعة 20000 م3 مع الملحقات لمشروع انشاء خزانات في محطة ضخ بيجي"
+  },
+  "d1616ce8-e7a0-4287-8233-e304e467a60c": {
+    "version_id": "327ed3ba-a6fc-43c9-84f3-3c0b1759fb7d",
+    "deadline": "2026-11-23 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "7 - خدمات - 2026 البصرة",
+    "title": "تقديم خدمة الاطعام والتنظيف ومستلزمات المعيشة الاخرى في مقر اقامة العاملين في ( مخيم استراحة الموظفين او مخيمات اخرى حسب الحاجه الفعلية ضمن حدود محافظة البصرة ومواقع عمل اجهزة الحفر والاستصلاح بنظام الوجبات والطبخ الموقعي )"
   },
   "8cfa259c-cd0a-4cc0-bdb4-f5332e4d29af": {
     "version_id": "dd3a360c-465b-418c-8cec-70d88ac18530",
@@ -1007,6 +951,14 @@
     "number": "2442 - 2026",
     "title": "SPARE PARTS OF GEAR REDUCER FOR STEAM BOILER FORCED DRAFT FANS"
   },
+  "2270da5c-07ee-4fc0-acca-523fa245d492": {
+    "version_id": "d8703de5-d882-44e6-8ce7-3f2d6011d943",
+    "deadline": "2026-11-23 14:30",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "LAB 34-2026-8A",
+    "title": "مواد امراض الدم"
+  },
   "1992f906-4aad-46ff-bd0b-44f76a046063": {
     "version_id": "564a104a-b29b-45b8-ad85-422983de7202",
     "deadline": "2026-11-24 12:00",
@@ -1022,6 +974,22 @@
     "extension_count": 0,
     "number": "L8G-007",
     "title": "نقل النفط الخام من حقل شرق بغداد النهروان الى المحطة وبكمية 8000م3 لمحطة كهرباء عكاز الغازية"
+  },
+  "eb83b349-e46d-42ab-adc4-e74fc869a5f0": {
+    "version_id": "d3cfa678-9b00-45cd-ad2c-778f7e69e631",
+    "deadline": "2026-11-24 14:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "2-2026",
+    "title": "تأهيل خلايا ابراج التبريد"
+  },
+  "287764ce-d292-47ce-9f04-c8d802fe05c8": {
+    "version_id": "f1239730-7ab3-482d-b6d5-28bfa9cae39b",
+    "deadline": "2026-11-24 14:30",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "MED -11-2026-Ab",
+    "title": "مناقصة عامة لتجهيز الأدوية"
   },
   "97b81365-442b-4618-80b2-499f647cd528": {
     "version_id": "ee4a742c-10b2-4fd4-ab29-ae082b34f71a",
@@ -1062,6 +1030,14 @@
     "extension_count": 0,
     "number": "608-2026",
     "title": "تأهيل بناية شعبة الكابسات"
+  },
+  "4e1d6989-5172-4619-b056-270295fafe21": {
+    "version_id": "e68907b6-c7dc-4f82-9504-af9617fc692d",
+    "deadline": "2026-11-25 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "SN/32-2026",
+    "title": "تجهيز مضافات الوقود (معطلات الفناديوم) وبكمية 600 طن تركيز (26%) لمحطتي كهرباء القيارة والدبس الغازية"
   },
   "60740c80-d25b-4f1f-b7a7-c1dd084d8dc1": {
     "version_id": "1d34de51-595a-4dd8-86cc-974726886214",
@@ -1271,6 +1247,14 @@
     "number": "SUP 96/2026/88",
     "title": "مستلزمات أشغة / نبيذة أساسي"
   },
+  "43c470d0-04f6-4235-b42d-eeecfdf7abb5": {
+    "version_id": "a56d71d0-7c8a-4887-bf0a-c950a7670455",
+    "deadline": "2026-12-02 11:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "ش ن و/ع/26033",
+    "title": "تاجير حوضية لنقل الماء الصالح للشرب في حقل عكاس الغازي"
+  },
   "2e43af7a-766e-4d25-b478-c746b735341e": {
     "version_id": "e2e29f4e-d698-4ecd-a0f0-c96375930d57",
     "deadline": "2026-12-02 12:00",
@@ -1286,6 +1270,14 @@
     "extension_count": 0,
     "number": "609/2026",
     "title": "تجهيز وصلات رابطة لمضخات التجهيز و الاستلام في قسم FCC"
+  },
+  "b0e63965-dd74-485b-a6b8-0b8a86b9ec95": {
+    "version_id": "e32ef994-16be-4e34-abe9-3387ea053603",
+    "deadline": "2026-12-02 13:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "47L/2026",
+    "title": "انشاء محطة الغاز السائل للسيارات في النجف الاشرف في موقع عمود 110"
   },
   "134ac991-a866-49f0-ad1f-d44564fab1af": {
     "version_id": "7e63d260-7d76-4217-ae71-49a5d672ae0a",
@@ -1399,6 +1391,22 @@
     "number": "25/2026",
     "title": "تجهيز فلاتر و صمامات منظومة العزل D.G للكابسة الدوارة 502 JT و فلاتر التزييت للكابسات الترددية 205 JC,JD"
   },
+  "91c5306a-d52e-42a8-b4d2-fbb5875912e8": {
+    "version_id": "d7473165-9aaa-4a8e-beb1-b56083d708d4",
+    "deadline": "2026-12-07 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "610/2026",
+    "title": "تجهيز المضختين 706JAمع المحرك"
+  },
+  "f2a2c3ff-d22c-4857-8346-8a069cadbb22": {
+    "version_id": "ab2279a0-03d3-4f85-bf0f-f715cc657002",
+    "deadline": "2026-12-07 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "9013/26/08",
+    "title": "تجهيز رغوة اطفاء فلورو بروتينية (اعلان اول)"
+  },
   "90cbf76b-99f3-4474-9162-2ee62a32ba66": {
     "version_id": "5513091d-15fc-4d6c-a010-bb88600f859f",
     "deadline": "2026-12-07 14:30",
@@ -1430,6 +1438,22 @@
     "extension_count": 0,
     "number": "SUP 91 NUS/2026/94",
     "title": "مستلزمات جراحة العصبية / نبيذة أساسي +معمرة ثانوي+معمرة أساسي"
+  },
+  "dceb9c34-f931-492c-bf15-935e21c3ed02": {
+    "version_id": "63c46af2-bd19-4c0b-b46f-d66f423a774c",
+    "deadline": "2026-12-09 14:30",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "SUP 91 GSU/2026/95",
+    "title": "مستلزمات جراحة عامة / نبيذة أساسي ومعمرة أساسي ومعمرة ثانوي"
+  },
+  "321abe3f-8ef4-4b12-9eff-01859807d026": {
+    "version_id": "3c3c3ce6-2499-4e85-825a-88adc748ab43",
+    "deadline": "2026-12-14 13:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "48L/2026",
+    "title": "أنشاء حوض ماء اطفاء سعة(300)م /موقع تصنيع أسطوانات الكوت"
   },
   "10cad0bb-395b-445e-83f3-6a09ed4ce6d8": {
     "version_id": "8774b95d-dc6f-4863-b05f-41764ae81cee",
@@ -1470,14 +1494,6 @@
     "extension_count": 0,
     "number": "24/2026",
     "title": "Supply goods to update and operate the meter system in De Qar refinery"
-  },
-  "66a6ebd0-2192-4354-bec6-7a27a17a632a": {
-    "version_id": "f04a8e67-900b-475f-96aa-45ce191f431d",
-    "deadline": "2026-11-10 14:30",
-    "status": "Published",
-    "extension_count": 1,
-    "number": "2026/5",
-    "title": "مناقصة عامة لتجهيز الأدوية"
   },
   "e6cda38d-129c-4d7d-98f7-b2d864da5fb5": {
     "version_id": "77bdc8c9-f939-426b-b568-50875e9473d1",
@@ -1622,6 +1638,14 @@
     "extension_count": 1,
     "number": "SUP 91 NUS/2026/28R",
     "title": "مستلزمات الجراحة العصبية / نبيذة أساسي"
+  },
+  "fb180f44-f965-4940-b1bf-c40c07f18c47": {
+    "version_id": "5c99d92a-c3fc-45a0-b6a6-992d28a379cb",
+    "deadline": "2026-11-19 14:30",
+    "status": "Published",
+    "extension_count": 1,
+    "number": "Vacc-2-2026-A",
+    "title": "مناقصة عامة لتجهيز الأدوية"
   },
   "042e9d85-b270-4f18-8160-a603df911e5b": {
     "version_id": "a0601b0c-0a3e-400a-b528-67e6f10e966f",
