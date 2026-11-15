@@ -1,124 +1,4 @@
 {
-  "11ac8f53-1963-41dd-be7a-6f9f217deabe": {
-    "version_id": "43dc5591-55ac-446e-8966-e06a6130e5a0",
-    "deadline": "2026-11-15 10:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "2026/34",
-    "title": "نقل وتفريغ الطحين في محافظة ديالى للمرة الثانية"
-  },
-  "c1ced673-00e0-48ba-a3e6-3d952586036e": {
-    "version_id": "73b3f724-d9ce-4303-9b86-fe0efab5dcae",
-    "deadline": "2026-11-15 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "(2026/3)",
-    "title": "تجهز مواد اولية الى معمل اسفلت الحفار لاعمال الجهد الخدمي والهندسي (تحويلة نهر الديوانية ــ طريق ال بدير"
-  },
-  "9ee17818-5af6-4b41-9c1b-40ad1bb20f1b": {
-    "version_id": "76fb4897-5a3f-4a54-9c51-02cbfdd8136b",
-    "deadline": "2026-11-15 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "2026/29",
-    "title": "شراء وحدة خزن خارجية 700TB"
-  },
-  "fcb7c4e5-f115-4126-8781-cdb6d2a6da7c": {
-    "version_id": "227c7dda-a382-4807-812f-77af890e9b49",
-    "deadline": "2026-11-15 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "2م/2026",
-    "title": "أستجار سيارات لنقل السادة رؤساء الاقسام وسيارات الخفر والواجبات لمقر المعاونية والورشة المركزية ومعمل بادوش لانتاج المواد الانشائية"
-  },
-  "044a6475-4d45-4ad4-9006-184e589c55e0": {
-    "version_id": "f296abd7-e4bf-4588-af86-117559708253",
-    "deadline": "2026-11-15 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "547-2026",
-    "title": "مناقصة محلية مشروع ازالة خزانين وانشاء خزانين محلهما في مصفى البصرة"
-  },
-  "63176ded-928a-4cdd-aef2-cf77024b60dc": {
-    "version_id": "9d710340-5a90-40c5-a8c2-adf2eaac1e59",
-    "deadline": "2026-11-15 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "606-2026",
-    "title": "تجهيز انابيب الكاربون ستيل و ملحقاتها"
-  },
-  "5654697e-61ab-435b-a6dc-3bba3c6173fa": {
-    "version_id": "938c3a26-381f-474b-b932-34139f3a63ca",
-    "deadline": "2026-11-15 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "M-2-2026",
-    "title": "تجهيز أنابيب المبرد الرئيسي لمحطة المسيب الحرارية"
-  },
-  "873035d8-9de7-4992-9911-f46d2045df30": {
-    "version_id": "888b676f-c9be-492a-85d7-a67f04cef375",
-    "deadline": "2026-11-15 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "M-21-2026",
-    "title": "تجهيز صمامات السيطرة لمحطة المسيب الحرارية"
-  },
-  "23234889-d378-4c4e-9cf1-515f801e34ac": {
-    "version_id": "38b51749-eb40-4482-985b-3c3eecd3210b",
-    "deadline": "2026-11-15 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "M-4-2026",
-    "title": "تجهيز مضخات وقود لمحطة المسيب الحرارية"
-  },
-  "b295b4e6-6030-4b6e-96c5-2e1341d41e2c": {
-    "version_id": "da873455-9213-4f77-9d0b-cb6d5e0c7134",
-    "deadline": "2026-11-15 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "SN/25-2026",
-    "title": "تجهيز مواد احتياطية للوحدات F.6 لمحطة كهرباء الشهيد المهندس عبدالله حمزة الغازية"
-  },
-  "36d0dcbe-5eb0-456e-8283-d4315dad604a": {
-    "version_id": "03119879-2e42-4b06-a740-19b4d6ba9ac8",
-    "deadline": "2026-11-15 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "SN/27-2026",
-    "title": "تجهيز زيت تورباين ISO VG100 نوع TOTAL وبكمية 130 برميل لمحطة كهرباء سد سامراء"
-  },
-  "578d9a6b-66e8-433c-ac1b-ce25829d18f4": {
-    "version_id": "6347620f-ff9a-4de5-9083-c4c579913541",
-    "deadline": "2026-11-15 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "SN/30-2026",
-    "title": "تاهيل العوادم للوحدات رقم (12.8.6.4) لمحطة الشهيد عبدالله حمزة احمد الغازية"
-  },
-  "c16878cc-88c8-4352-8b59-e1a273d3d9fc": {
-    "version_id": "f2202fde-7343-42af-b1cf-4a96b672dd14",
-    "deadline": "2026-11-15 13:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "13 - 2026",
-    "title": "تجهيز جهاز قياس الكبريت الكلي"
-  },
-  "caee54f9-1b11-4a18-bbbe-23bfd86b6950": {
-    "version_id": "6b7f6ef6-bdb2-49c8-bca8-2531f758b73e",
-    "deadline": "2026-11-15 13:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "3/2026",
-    "title": "تجهيز عجلات BYD نوع بيك اب Shark"
-  },
-  "92cb1e0e-6f47-4d44-bd87-e84da006e8e3": {
-    "version_id": "ba96b4d0-b39c-4652-9754-74b989f0f5b8",
-    "deadline": "2026-11-15 13:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "PRJ-26-2362-D",
-    "title": "BOC AUDIT CONSULTANT SERVICES نطاق خدمات الاستشاري التدقيقي لشركة نفط البصرة"
-  },
   "731f74cf-3db6-4377-a40e-10efdce56467": {
     "version_id": "f770240c-6583-4147-b93e-7b217f87f175",
     "deadline": "2026-11-16 12:00",
@@ -134,14 +14,6 @@
     "extension_count": 0,
     "number": "519/2025",
     "title": "تجهيز مواد كهربائية"
-  },
-  "8b09751e-bd83-4de0-bf9e-6c4f0d4d9a09": {
-    "version_id": "12b81ca5-2d5d-4b16-b5c0-a77c359e8099",
-    "deadline": "2026-11-16 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "SN/26-2026",
-    "title": "تجهيز محامل المولدة الخاصة بالوحدات التوليدية مع كافة ملحقاتها لمحطة كهرباء القيارة الغازية"
   },
   "b6369817-91e0-41f6-8d0c-8b4f1a1ab5cd": {
     "version_id": "91d2fedc-35c9-4a7e-a1a1-5ff3b81ded64",
@@ -559,6 +431,14 @@
     "number": "م.ر 1 / 2026",
     "title": "تجهيز محولات توزيع سعة 400 ك ف أ"
   },
+  "dd71d076-ec1f-42dd-a73e-19e019a244dc": {
+    "version_id": "b5a8d0ac-39d3-4272-8c48-41be17213903",
+    "deadline": "2026-11-19 13:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "الاعلان الاولى",
+    "title": "اعلان الى الشركات و مؤسسات الدفع الالكتروني المالي المجازة"
+  },
   "ea63c60a-8ebf-4732-9645-98d93c6a3d64": {
     "version_id": "a6b6aa5a-fa55-40e0-bdb0-1bfad5872da3",
     "deadline": "2026-11-19 14:30",
@@ -911,6 +791,22 @@
     "number": "مناقصة 9/ب/2026",
     "title": "تجهيز وتقديم خدمات الاطعام والتنظيف في ميناء العمية النفطي"
   },
+  "fa51fcc7-7186-4bca-b1c6-9e31102baa2d": {
+    "version_id": "5b9349f0-ba8f-4805-885b-7de419003549",
+    "deadline": "2026-11-25 13:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "2L/2026",
+    "title": "نقل منتسبي فرع واسط و قسم تصنيع اسطوانات الكوت"
+  },
+  "a6e4b3cd-189e-4d51-839f-53da216013ff": {
+    "version_id": "41328a00-fcef-4cd7-bd42-15c210ee2549",
+    "deadline": "2026-11-25 13:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "7/م/ب ن م/2026",
+    "title": "تنفيذ الاعمال المدنية الخاصة بمشروع انشاء ساحة لخزن الزيوت والشحوم في الرميلة الشمالية"
+  },
   "a6877580-3fce-48be-a42f-f08facfd3271": {
     "version_id": "b8eb16cb-0852-4e36-99fe-a427baadaa4f",
     "deadline": "2026-11-25 14:30",
@@ -1055,6 +951,14 @@
     "number": "MG-2-2026",
     "title": "تأهيل منظومة الماء الضغوط (الهيدرنت) لمحطة المسيب الغازية"
   },
+  "8d24d735-127f-4ba6-a539-f7e7080e423a": {
+    "version_id": "b7d1690c-c7e3-4b8d-86e9-465a2bb1914e",
+    "deadline": "2026-11-30 11:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "1/2026",
+    "title": "تجهيز اجهزة مختبرية"
+  },
   "b8883a98-66df-4b88-b9db-89c0a7e7c108": {
     "version_id": "4a33a9a5-4f9e-4e39-a0f8-5fb44cf567a5",
     "deadline": "2026-11-30 11:00",
@@ -1110,14 +1014,6 @@
     "extension_count": 0,
     "number": "2-2025",
     "title": "مشروع تجميع وتصنيع وصيانة مضخات الماء والنفط-"
-  },
-  "b5bbbd2b-11cb-4bc7-a7bb-e5515602f240": {
-    "version_id": "3fe8a211-c757-40e4-a00b-cfadf3b924e3",
-    "deadline": "2026-11-30 14:30",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "66/2026/35",
-    "title": "تجهيز جهاز Densitometers, Bone, Dual-Energy, Absorptiometry"
   },
   "ff510e4a-864d-45aa-a68a-0ad5cb4da695": {
     "version_id": "a571aa5a-dfe5-4e29-b3fb-65a483a9865a",
@@ -1439,6 +1335,14 @@
     "number": "ش ن و /ت/ 26052",
     "title": "مشروع بناية مقر هيأة حقول ديالى"
   },
+  "1ec6c8e0-a933-43c7-a982-fd358934c3dc": {
+    "version_id": "a1a49883-61d8-466f-bbe5-37dcde296aac",
+    "deadline": "2026-12-14 10:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "37/2026",
+    "title": "تجهيز و نصب منظومة تصفية الغاز لمحطة كهرباء الرميلة الغازية"
+  },
   "7d4cec60-a5dd-4b58-acb6-d732a681e898": {
     "version_id": "3cba5a72-9d96-4e2a-a775-89ee390dc95d",
     "deadline": "2026-12-14 11:00",
@@ -1455,6 +1359,22 @@
     "number": "48L/2026",
     "title": "أنشاء حوض ماء اطفاء سعة(300)م /موقع تصنيع أسطوانات الكوت"
   },
+  "45d2965f-b979-432b-b57d-0bde7a2b3240": {
+    "version_id": "49cde59d-62bf-4f42-a2fc-6e697f33e80c",
+    "deadline": "2026-12-14 14:30",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "SUP 91 GSU/2026/70R",
+    "title": "مستلزمات جراحة عامة / نبيذة أساسي"
+  },
+  "1cf7bb39-5360-4d49-b814-43fb076f212a": {
+    "version_id": "484f338d-2bdb-4622-b73e-9f1036ed3e7b",
+    "deadline": "2026-12-14 14:30",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "SUP 95/2026/96",
+    "title": "مستلزمات عيون"
+  },
   "10cad0bb-395b-445e-83f3-6a09ed4ce6d8": {
     "version_id": "8774b95d-dc6f-4863-b05f-41764ae81cee",
     "deadline": "2026-12-15 12:00",
@@ -1462,6 +1382,14 @@
     "extension_count": 0,
     "number": "1-2026",
     "title": "تجهيز مضخات لولبية كاملة مع محرك كهربائي ( العدد 2)"
+  },
+  "ac5f5d99-4bb5-46ad-89db-ff2b8a621ab4": {
+    "version_id": "9290f221-6f65-4f6e-99fe-508baaae0654",
+    "deadline": "2026-12-15 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "119",
+    "title": "اعلان فرصة استثمارية"
   },
   "c1a5de71-0c6c-4d8c-bd53-aaa3e0bdddaf": {
     "version_id": "aa4a5f31-0f37-49fd-9c8c-b77b287e326a",
@@ -1503,6 +1431,14 @@
     "number": "24/2026",
     "title": "Supply goods to update and operate the meter system in De Qar refinery"
   },
+  "6003cc32-fa04-403a-a706-b94303d7d578": {
+    "version_id": "083e5823-3c4b-445d-94e0-03087a4c801b",
+    "deadline": "2026-12-26 10:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "29/2026",
+    "title": "تأهيل و تشغيل و صيانة محطة ديزلات القرنة"
+  },
   "0664e980-3877-4744-9767-1919db238d0e": {
     "version_id": "d8342ae6-4bf3-4692-b817-ef20b2497ab1",
     "deadline": "2026-12-27 12:00",
@@ -1510,22 +1446,6 @@
     "extension_count": 0,
     "number": "30-2026",
     "title": "تجهيز برج تبريد لوحدة الاسفلت"
-  },
-  "0c4b6c06-68eb-4539-84c0-fea32d0cdc2e": {
-    "version_id": "f994f56a-762c-4757-9437-30c1678a47b3",
-    "deadline": "2026-11-15 11:00",
-    "status": "Published",
-    "extension_count": 1,
-    "number": "MdOC-E-26040",
-    "title": "jتجهيز مضخات الطرد المركزي كهربائية و مضخات ترددية مع المحركات و الملحقات و المواد الاحتياطية"
-  },
-  "9977f3a2-3e2e-4bf9-8394-22f00d8f7913": {
-    "version_id": "9f8c5f35-6142-4d14-8d20-ab5c4b33d4e0",
-    "deadline": "2026-11-15 12:00",
-    "status": "Published",
-    "extension_count": 1,
-    "number": "2026/2",
-    "title": "نقل منتسبي شركة غاز الجنوب"
   },
   "efce3ee4-c57a-4587-9d09-140097e5d208": {
     "version_id": "0ae9f890-ad3e-4641-a402-18e874d2e38a",
@@ -1640,12 +1560,20 @@
     "title": "فحص وتنظيف انبوب الغاز الجاف الوطني بطول (710 كم) المتضمن (6) مقاطع رئيسية قياس (42 عقدة) بطول (541كم) وتفرعاته (4) قياس (42 عقدة) بطول (169 كم) بطريقة القشط الذكي"
   },
   "8081d7bb-13c7-476c-ab32-2e6a2416c097": {
-    "version_id": "2c8ae9e6-f6a3-47b8-8afb-920dbe300610",
+    "version_id": "099544ab-8546-4871-af03-987e9a3d2645",
     "deadline": "2026-11-22 12:00",
     "status": "Published",
     "extension_count": 1,
     "number": "4/بلدية/2026",
     "title": "تنظيف شعبة القبلة والخليج"
+  },
+  "8b09751e-bd83-4de0-bf9e-6c4f0d4d9a09": {
+    "version_id": "b2c7e6ba-1503-427d-a1cb-9f705e25f010",
+    "deadline": "2026-11-22 12:00",
+    "status": "Published",
+    "extension_count": 1,
+    "number": "SN/26-2026",
+    "title": "تجهيز محامل المولدة الخاصة بالوحدات التوليدية مع كافة ملحقاتها لمحطة كهرباء القيارة الغازية"
   },
   "129afa06-4212-44ec-96fa-a07c35130bda": {
     "version_id": "a1cbe066-5b29-4931-9ad0-e1f96192b423",
@@ -1838,5 +1766,13 @@
     "extension_count": 1,
     "number": "SUP 83/2026/85",
     "title": "مستلزمات جراحة بولية / نبيذة أساسي"
+  },
+  "b5bbbd2b-11cb-4bc7-a7bb-e5515602f240": {
+    "version_id": "51408cb8-3a0c-46a4-bda4-14d27539c3a9",
+    "deadline": "2026-12-14 14:30",
+    "status": "Published",
+    "extension_count": 1,
+    "number": "66/2026/35",
+    "title": "تجهيز جهاز Densitometers, Bone, Dual-Energy, Absorptiometry"
   }
 }
