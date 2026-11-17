@@ -1,68 +1,4 @@
 {
-  "aa74a7b4-f3ae-4284-88d6-5f1e3cb2a6fe": {
-    "version_id": "f9127f1e-fde0-4596-835c-7c30625ac339",
-    "deadline": "2026-11-17 11:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "1/2026",
-    "title": "تجهيز أجهزة cpap عدد 12"
-  },
-  "06090a8b-474b-4548-b08b-2f8b343f1ff5": {
-    "version_id": "ca7cee6f-46c7-4b08-9734-9949ef7ae758",
-    "deadline": "2026-11-17 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "2/م/2026",
-    "title": "تشييد خططوط 33 ك ف ثنائي الدائرة من محطة الجبايش الرئيسية 132/33 ك ف لتغذية محطات قضاء الفهود"
-  },
-  "92509031-43ca-4dcd-96be-7c49c5c3c623": {
-    "version_id": "bc27e328-2572-4362-af14-fb188fa5f8bc",
-    "deadline": "2026-11-17 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "4032",
-    "title": "فرصة استثمارية اسواق تجارية في مدينة الكوت"
-  },
-  "877f3789-9c2b-48e2-b796-d4177d9736cb": {
-    "version_id": "f8de0d78-8b1f-4524-b0ad-14b505db3b6a",
-    "deadline": "2026-11-17 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "602/2026",
-    "title": "power cable size 3x95mm 2/1000m"
-  },
-  "175271ad-9aa6-469c-9416-83ba278accde": {
-    "version_id": "88fda2f5-9800-42d7-93c0-56308461c8e2",
-    "deadline": "2026-11-17 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "SN/29-2026",
-    "title": "تجهيز مضافات الوقود (مانع الاستحلاب وبكمية 40 طن) لمحطة كهرباء الدبس الغازية"
-  },
-  "192248b0-8c66-40df-b7b3-c37e2565a26c": {
-    "version_id": "c0426956-9837-407e-aeed-941b67bdc9be",
-    "deadline": "2026-11-17 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "ش.ب/2026/21",
-    "title": "تجهيز معدات لتأهيل المحطة الخاصة بمستشفى ابن الهيثم في بغداد"
-  },
-  "33550350-3963-421f-9239-a21f671746c7": {
-    "version_id": "00c8f1e5-da4c-4250-8d43-23640e1f3927",
-    "deadline": "2026-11-17 14:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "اعلان رقم (5) لسنة 2026",
-    "title": "إعلان فرصة استثمارية (مجمع سكني)"
-  },
-  "07a1463e-0e3b-46fe-8096-1906ba1a80c5": {
-    "version_id": "64c75fc9-8bc3-43ef-93a5-d7051e48befc",
-    "deadline": "2026-11-17 14:30",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "SUP 91 NUS/2026/79",
-    "title": "مستلزمات جراحة عصبية / نبيذة أساسي"
-  },
   "cdb02f1e-050f-4398-8841-6180124ea15f": {
     "version_id": "5b058652-db5e-4fd3-aa21-ee479e7bee39",
     "deadline": "2026-11-18 10:00",
@@ -623,6 +559,14 @@
     "number": "1",
     "title": "طبع وتجهيز الدفاتر الامتحانية للصفوف غير المنتهية"
   },
+  "c19fb2e9-2405-4a84-82f0-102f13a4a334": {
+    "version_id": "afc36dca-ee63-469d-b02d-5b3dedd5fd1e",
+    "deadline": "2026-11-24 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "4/2026",
+    "title": "مناقصة تحميل وتفريغ الحبوب في فرع كركوك"
+  },
   "89c1155d-acd6-46cc-a6e7-64867d53bb1d": {
     "version_id": "07716ff7-b79b-478b-9919-4be5f284f63e",
     "deadline": "2026-11-24 12:00",
@@ -718,6 +662,14 @@
     "extension_count": 0,
     "number": "2م/2026",
     "title": "تجهيز ونصب وتشغيل منظومة طاقة الشمسية"
+  },
+  "ab1bd471-c183-4e93-97ba-619cb9d72bdc": {
+    "version_id": "f246577a-7bea-4ed2-9401-841837ae5db7",
+    "deadline": "2026-11-25 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "3/2026",
+    "title": "مناقصة تحميل وتفريغ الحبوب في فرع كركوك / المراكز الخارجية"
   },
   "eac2cb8b-c172-4ca5-bdae-7a38de6f9df4": {
     "version_id": "bbdc1e84-fb84-4cc2-8c88-a2395dd7874f",
@@ -927,6 +879,14 @@
     "number": "4/2026",
     "title": "تجهيز منظومة الطاقة الشمسية وتأهيل البوردات"
   },
+  "257651ce-ff81-4632-bf8e-92cc6e4333e0": {
+    "version_id": "10fbfe90-0d06-4149-842c-79163e4b2b30",
+    "deadline": "2026-11-29 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "7/2026",
+    "title": "مناقصة تحميل وتفريغ الحبوب في فرع المثنى"
+  },
   "7789dba4-a6b2-4adb-9ce1-77056cc2e9c5": {
     "version_id": "81b0948b-5e61-45f2-8216-1afbd082515d",
     "deadline": "2026-11-29 12:00",
@@ -942,6 +902,14 @@
     "extension_count": 0,
     "number": "MG-2-2026",
     "title": "تأهيل منظومة الماء الضغوط (الهيدرنت) لمحطة المسيب الغازية"
+  },
+  "b6369817-91e0-41f6-8d0c-8b4f1a1ab5cd": {
+    "version_id": "33773e8b-c46d-4d97-9d8e-ed5769c399c3",
+    "deadline": "2026-11-29 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "SN/28-2026",
+    "title": "تجهيز صمام استنزاف الهواء (BLEED VALVE) وصمام التطهير (PURGE VALVE) لمحطة كهرباء القيارة الغازية"
   },
   "f1b7c935-1ae4-4593-b6a3-3e4d49307dbd": {
     "version_id": "90e52d30-f3cf-41bf-9830-4d1f522127f8",
@@ -974,6 +942,14 @@
     "extension_count": 0,
     "number": "12/SDI/م/2026",
     "title": "مناقصة azithromycin 500kg"
+  },
+  "9745a021-c2c5-49bd-adc9-36cc14a095ee": {
+    "version_id": "51aceeb0-8600-4cea-86fa-b93e769f0ca1",
+    "deadline": "2026-11-30 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "2/2026",
+    "title": "تجهيز ونصب مقاعد دراسية"
   },
   "853e3780-51a6-48fe-8585-0500025680bd": {
     "version_id": "09910ac0-c60b-45de-9ddc-38806f8e6124",
@@ -1127,6 +1103,14 @@
     "number": "9013/26/28",
     "title": "جهاز فحص مضخات الوقود وجهاز فحص حاقنات الوقود"
   },
+  "1fc66087-21cb-439f-9fe3-7ea736dd25c6": {
+    "version_id": "2d50bfa8-afc1-4de8-9b25-b215b25fb9fe",
+    "deadline": "2026-12-02 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "اعلان رقم 1 اعادة اعلان",
+    "title": "تأهيل متنزه في حي الجزيرة"
+  },
   "6e277ddc-56b2-4609-9bc2-78dc7387db8d": {
     "version_id": "cad528ff-3591-4ef2-9426-926c0754f7bb",
     "deadline": "2026-12-02 13:00",
@@ -1166,6 +1150,14 @@
     "extension_count": 0,
     "number": "34/2026",
     "title": "تأهيل قواعد القابلوات المتضررة وقنوات الامطار والقواعد في الشبكة لمحطة كهرباء الناصرية البخارية"
+  },
+  "1eda9fb3-3ccc-48ca-90eb-286180c47328": {
+    "version_id": "a2f749bc-bcaf-47e3-a1a4-0151bf7de962",
+    "deadline": "2026-12-03 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "اعلان رقم 2 مديرية بلدية النجف",
+    "title": "تأهيل متنزه حي المعلمين (العائلة) وبمساحة كلية (22,700)م2"
   },
   "e3dc968d-083b-4810-a3a4-280ea471456e": {
     "version_id": "7013ab05-d890-4c1d-a529-28e443b5f632",
@@ -1280,7 +1272,7 @@
     "title": "تجهيز منظومة كشف التداخل والتسريبات لمشروع استيراد الغاز المسال LNG من خلال منصة عائمة"
   },
   "d8271e9d-0084-41cf-aff8-69fc5e12b179": {
-    "version_id": "7f90acc2-9554-4c84-bc26-e7348e517922",
+    "version_id": "5ddc658f-39f3-41af-9391-57862cbb00e9",
     "deadline": "2026-12-06 13:00",
     "status": "Published",
     "extension_count": 0,
@@ -1390,6 +1382,14 @@
     "extension_count": 0,
     "number": "53/ب/2026",
     "title": "انشاء حوض كونكريتي عدد/3 في محطة PS3- النجف الأشرف"
+  },
+  "b849cf4a-13bc-4102-9581-fb47e4fa47fe": {
+    "version_id": "ccb81d0e-cbce-4a89-aaae-06f268621568",
+    "deadline": "2026-12-09 13:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "المناقصة 15 - 2026 الطلبية 559 - 2026",
+    "title": "تجهيز ماكنة لحام بالقوس الغاطس مع ملحقاتها"
   },
   "dceb9c34-f931-492c-bf15-935e21c3ed02": {
     "version_id": "63c46af2-bd19-4c0b-b46f-d66f423a774c",
@@ -1503,6 +1503,22 @@
     "number": "53/2026",
     "title": "New complete heavy duty horizontal centrifugal pump with spare parts item 2216"
   },
+  "a82ca678-e02f-496c-adb0-4781984f5429": {
+    "version_id": "c1d47fe2-fc50-4ff0-9d43-4735e8cec354",
+    "deadline": "2026-12-16 14:30",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "SUP 71/2026/44/R1",
+    "title": "مستلزمات حديثي الولادة / معمرة أساسي"
+  },
+  "db017a85-4d27-445d-a919-02b8f6b106ac": {
+    "version_id": "b2c061d8-8ab0-480d-90fb-6d67f2c2b240",
+    "deadline": "2026-12-16 14:30",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "SUP 91 GIT/2026/72R",
+    "title": "مستلزمات الجهاز الهضمي معمرة أساسي"
+  },
   "9288f33f-5fed-4ea8-b499-2b272088a888": {
     "version_id": "ffa2ea06-173e-43e1-bd93-05e46330628e",
     "deadline": "2026-12-17 10:00",
@@ -1510,6 +1526,14 @@
     "extension_count": 0,
     "number": "32/2026",
     "title": "تأهيل منظومة معالجة الوقود الثقيل FOTP لمحطة كهرباء شط البصرة و الشعيبة الغازية"
+  },
+  "aa68a43d-33a8-4a89-baa2-6ccfcf767003": {
+    "version_id": "77e10e25-1a23-449e-bd9a-46ca402b1340",
+    "deadline": "2026-12-17 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "120",
+    "title": "اعلان فرصة استثمارية"
   },
   "de64e83d-8333-416d-bb5e-5a6a675dfccf": {
     "version_id": "0736545d-0031-473d-9585-cef62d67adba",
@@ -1550,22 +1574,6 @@
     "extension_count": 0,
     "number": "30-2026",
     "title": "تجهيز برج تبريد لوحدة الاسفلت"
-  },
-  "9efd4622-67ff-4bba-8b80-711ec51abb5b": {
-    "version_id": "42728d6f-de49-48f6-b164-7da94d61d0c9",
-    "deadline": "2026-11-17 14:30",
-    "status": "Published",
-    "extension_count": 1,
-    "number": "MED -5-2026-Ac",
-    "title": "مناقصة عامة لتجهيز الأدوية"
-  },
-  "1a159e7e-ab57-43a5-bf4e-d89161eb4a97": {
-    "version_id": "8dc5b0ff-5921-4d8c-a06c-2638c7662839",
-    "deadline": "2026-11-17 14:30",
-    "status": "Published",
-    "extension_count": 1,
-    "number": "MED -7-2026-D",
-    "title": "مناقصة عامة لتجهيز الأدوية"
   },
   "d6d34707-ad14-4294-847c-73a9cdda6f93": {
     "version_id": "c2c7b1ea-6231-4457-a7af-31008d27d6e8",
@@ -1783,14 +1791,6 @@
     "number": "MOE-HQ9/2026 - المرحلة الاولى",
     "title": "وثيقة طلب التأهيل المسبق (RFI) لاختيار وتأهيل المستثمرين الراغبين بالمشاركة في عقد امتياز الاستثمار في إدارة وتشغيل وتطوير شبكات توزيع الطاقة الكهربائية في العراق / محافظة النجف الاشرف"
   },
-  "6a43b7b8-72e7-40c6-976b-9f50aa0dac1c": {
-    "version_id": "c338e1f2-90be-4b75-a0c8-30e9c0f8d5c0",
-    "deadline": "2026-11-26 14:30",
-    "status": "Published",
-    "extension_count": 1,
-    "number": "66/2026/34",
-    "title": "تجهيز اجهزة الرنين المغناطيسي"
-  },
   "ef85f1be-ffea-418e-bb3b-e99e15221c73": {
     "version_id": "be53cb55-8dc9-487b-8e19-756fe0fd38ad",
     "deadline": "2026-12-01 14:30",
@@ -1814,6 +1814,14 @@
     "extension_count": 1,
     "number": "66/2026/36",
     "title": "تجهيز أجهزة الرنين المغناطيسي"
+  },
+  "6a43b7b8-72e7-40c6-976b-9f50aa0dac1c": {
+    "version_id": "f2f14a4a-21a3-4491-8801-e5e107527cf7",
+    "deadline": "2026-12-10 14:30",
+    "status": "Published",
+    "extension_count": 2,
+    "number": "66/2026/34",
+    "title": "تجهيز اجهزة الرنين المغناطيسي"
   },
   "112ef753-fc8b-4343-9948-2fc58e1e3555": {
     "version_id": "a52eeb4c-117a-48a1-8549-36569202dd39",
