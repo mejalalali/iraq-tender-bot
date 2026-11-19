@@ -1,188 +1,4 @@
 {
-  "5cca0958-265b-4ef1-a873-d4eb6793413f": {
-    "version_id": "b9eb80ee-8abc-4798-86c9-82f319c7cd82",
-    "deadline": "2026-11-19 10:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "28/2026",
-    "title": "تجهيز مبادلات حرارية عدد (4) لمنظومة تزيت التورباين لمحطة كهرباء ذي قار المركبة"
-  },
-  "ae8783b8-3424-447e-8470-7ada5578c50d": {
-    "version_id": "63c75695-8af5-4eea-8760-5365bb130e46",
-    "deadline": "2026-11-19 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "1/ بلدية 2026",
-    "title": "تنظيف شعبتي الخورة والعشار 2026"
-  },
-  "22f67877-9be3-43c5-b28b-99da7141d696": {
-    "version_id": "dd3dea93-09da-4857-ae08-b487519f325d",
-    "deadline": "2026-11-19 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "2026/6",
-    "title": "تجهيز معهد التدريب النفطي / كركوك /قسم الميكانيك بجهاز قطع بلازما يدوي وجهاز التثقيب الحار (manual plasma cutting machine-hot tap machine)"
-  },
-  "26cd0394-6ed2-423d-9935-38a553b3f1ce": {
-    "version_id": "dfdc9995-4e7c-4154-bf1d-b75ed98f9793",
-    "deadline": "2026-11-19 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "3",
-    "title": "مشروع مغسلة سيارات نموذجية"
-  },
-  "6588520d-b29f-4c82-b5ce-786a5fc57b6f": {
-    "version_id": "3fc737d0-b560-4feb-9a22-a4621e59748d",
-    "deadline": "2026-11-19 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "4",
-    "title": "مشروع مدرسة اهلية"
-  },
-  "91e79a48-b4e9-45ff-87e3-af629ed3e921": {
-    "version_id": "4c8a0575-555b-4212-a943-fab3e59fd1a7",
-    "deadline": "2026-11-19 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "L2G-055",
-    "title": "اعادة اعلان مناقصة تأهيل مواد المسار الحار لترابين الوحدات 1و2 لمحطة كهرباء الصدر الغازية"
-  },
-  "1626fd32-0adc-4c42-936a-55c86e6160fb": {
-    "version_id": "8279d487-4f3a-4575-9e1b-970591ec11f9",
-    "deadline": "2026-11-19 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "ت2026/10",
-    "title": "تجهيز عمود 11م مغلون (شد) مع الملحقات بكمية (5000) عمود وعمود مدور 11م (مغلون) مع الملحقات بكمية (10.000) عمود"
-  },
-  "e0c6d61e-a0e6-458e-90b9-a594d52a1bad": {
-    "version_id": "e6c799d0-ba6b-46ac-bcfe-e9115bda27c0",
-    "deadline": "2026-11-19 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "ت2026/6",
-    "title": "تجهيز اسلاك المنيوم نوع ACSRمختلفة"
-  },
-  "c445db54-9e3a-446f-b605-efd15300f649": {
-    "version_id": "5fdda033-59e6-4dcf-8a67-8257b4a0c8ab",
-    "deadline": "2026-11-19 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "ت2026/7",
-    "title": "تجهيز أعمدة حديدية مدورة مغلونة (13) م مختلفة مع الملحقات"
-  },
-  "a0d3d73a-1aab-4f12-b2cf-9bb42b54449f": {
-    "version_id": "b8de646a-4354-4db2-a3ea-531077adf0e9",
-    "deadline": "2026-11-19 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "ت2026/8",
-    "title": "تجهيز أعمدة حديدية مغلونة مدورة 9 م مختلفة"
-  },
-  "4dbf72f8-e145-43f0-a25d-c91a86745541": {
-    "version_id": "e327bf49-0a5c-46db-b258-dd10d2850307",
-    "deadline": "2026-11-19 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "ت2ب/2026",
-    "title": "تجهيز محولات توزيع جهد0.4/11 كف بسعة 400كفا بكمية 55 محولة"
-  },
-  "81fc6c1d-035a-40ad-b0f0-77f4f80dbc84": {
-    "version_id": "d0365eb7-40af-4c77-881a-27e483eafbe2",
-    "deadline": "2026-11-19 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "ت2د/2026",
-    "title": "تجهيز محولات توزيع0.4/11كف سعة 400كفا بكمية 55 محولة"
-  },
-  "1573ff3a-d470-44fb-8f46-eb89fbe0ef5b": {
-    "version_id": "3efa23b7-46e5-481c-8fdc-fa1b9a41fc6d",
-    "deadline": "2026-11-19 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "ت2ك/2026",
-    "title": "تجهيز محولات توزيع جهد 0,4/11 ك.ف سعة 400 كفا بكمية 50 محولة"
-  },
-  "244b958c-4f53-4722-811c-942da67c729f": {
-    "version_id": "afc8e83d-fb26-4588-8ca3-dcac185ebca0",
-    "deadline": "2026-11-19 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "ت2ن/2026",
-    "title": "تجهيز محولات توزيع 0.4/11 كف سعة 400 بكمية 55 محولة"
-  },
-  "8e27c8af-9dd4-4b08-9a3b-1da16235fb29": {
-    "version_id": "4ff2c8df-908f-443a-b222-dcb92fb7a362",
-    "deadline": "2026-11-19 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "ت3ب/2026",
-    "title": "تجهيز محولات توزيع جهد 0.4/11 كف سعة 250 كفا بكمية 65 محولة"
-  },
-  "94354bdd-47b6-40ab-ad44-9fb1d3c48f64": {
-    "version_id": "466b0ad4-484c-4ed6-9df0-0b96cb8a9971",
-    "deadline": "2026-11-19 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "ت3د /2026",
-    "title": "تجهيز محولات توزيع جهد 0.4/11 كف سعة 250 كفا بكمية (65) محولة"
-  },
-  "6473f8ab-1d84-447a-98d3-784242ae5a88": {
-    "version_id": "76237c04-71af-4536-aaad-6428706868f4",
-    "deadline": "2026-11-19 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "ت3ك /2026",
-    "title": "تجهيز محولات توزيع جهد 0.4/11كف سعة 250 كفا بكمية 60 محولة"
-  },
-  "a12c86a5-6a8e-4f86-9467-af3764994ff6": {
-    "version_id": "812edfd4-f13f-47b1-8468-70207113a7bd",
-    "deadline": "2026-11-19 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "ت3ن/2026",
-    "title": "تجهيز محولات توزيع جهد 0.4/11 كف سعة 250 كفا بكمية 65 محولة"
-  },
-  "b56010b1-9e4a-4ff2-8ad5-67525a8572f2": {
-    "version_id": "1ec514a8-3821-4a92-a4f3-f177fa98f173",
-    "deadline": "2026-11-19 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "ك2/استئجار رافعة سلكية ورافعة شوكية في جهاز الحفر 222 - للمرة الاول",
-    "title": "ك2/استئجار رافعة سلكية ورافعة شوكية في جهاز الحفر 222/2026"
-  },
-  "36a6c774-a9bb-4c7e-bf6d-c306c281b13c": {
-    "version_id": "95951f35-4c89-449f-84c5-dc74c38784e9",
-    "deadline": "2026-11-19 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "م.ر 1 / 2026",
-    "title": "تجهيز محولات توزيع سعة 400 ك ف أ"
-  },
-  "dd71d076-ec1f-42dd-a73e-19e019a244dc": {
-    "version_id": "b5a8d0ac-39d3-4272-8c48-41be17213903",
-    "deadline": "2026-11-19 13:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "الاعلان الاولى",
-    "title": "اعلان الى الشركات و مؤسسات الدفع الالكتروني المالي المجازة"
-  },
-  "ea63c60a-8ebf-4732-9645-98d93c6a3d64": {
-    "version_id": "a6b6aa5a-fa55-40e0-bdb0-1bfad5872da3",
-    "deadline": "2026-11-19 14:30",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "MED -14-2026-A",
-    "title": "مناقصة عامة لتجهيز الأدوية"
-  },
-  "98e133ce-808a-4aca-910f-22b27577c2b7": {
-    "version_id": "229bc656-4ddf-4563-99dd-f106ba7c110f",
-    "deadline": "2026-11-19 14:30",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "SUP 84/2026/81",
-    "title": "مستلزمات كسور / نبيذة أساسي"
-  },
   "26a9f89a-e574-408a-b410-b83b90be6fd7": {
     "version_id": "37bcfbf2-25b7-4300-8442-d7edfae46315",
     "deadline": "2026-11-22 10:00",
@@ -727,6 +543,14 @@
     "number": "2026/35",
     "title": "شراء مواد احتياطية للتسجيل"
   },
+  "bbb62947-5b7d-4527-9972-d400ebe4f19e": {
+    "version_id": "5c5ff52a-eb53-4088-99bd-2942e6a6140f",
+    "deadline": "2026-11-29 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "24/2026",
+    "title": "تجهيز سلك نحاسي مساحة مقطع 1.8ملم2 + 2ملم2 + 2.4ملم2"
+  },
   "9de55ee4-ced7-4d6a-be61-db473b784640": {
     "version_id": "489ee850-8003-45b2-9673-49c683d06392",
     "deadline": "2026-11-29 12:00",
@@ -839,6 +663,30 @@
     "number": "3/م/2026",
     "title": "مناقصة نقل منتسبي مقر الشركة العامة من مناطق سكناهم الى مقر الشركة وبالعكس"
   },
+  "29d3f443-3c02-4633-9708-1bc8c815d0a7": {
+    "version_id": "12a17146-c3e2-4a65-a59b-44a599622368",
+    "deadline": "2026-11-30 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "4/T/SCOSI/2026",
+    "title": "ازالة و تنصيب انابيب جدار الفرن لمنطقة الاحتراق لمراجل الوحدة التوليدية الثالثة"
+  },
+  "34a2611d-45ca-4fc8-8bf7-a91c44c4b05a": {
+    "version_id": "fa05a6f7-ffcc-478d-912d-a1ca23edc16d",
+    "deadline": "2026-11-30 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "5/T/SCOSI/2026",
+    "title": "انشاء و نصب خزان 2000 متر مكعب مع منظومة الفلترة و مضخات سحب و دفع"
+  },
+  "ec49001f-84e9-4748-a59f-06f50bc03e28": {
+    "version_id": "9ca974c0-a49b-4f98-9a78-e4d3eec3cdd1",
+    "deadline": "2026-11-30 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "6/2026",
+    "title": "انشاء مراكز شرطة عدد (5) في بغداد والمحافظات"
+  },
   "ec33fa25-39b5-49ca-81a6-f7a964c9b678": {
     "version_id": "37b63298-42ca-4960-bedf-8e79a1c507e4",
     "deadline": "2026-11-30 12:00",
@@ -886,6 +734,22 @@
     "extension_count": 0,
     "number": "MED -7-2026-E",
     "title": "مناقصة عامة لتجهيز الأدوية"
+  },
+  "884f4a9c-57b3-474d-8590-106b276e0e99": {
+    "version_id": "dd2464ae-309b-4c5b-a590-6024e5163623",
+    "deadline": "2026-12-01 10:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "LMD-15/2026",
+    "title": "مناقصة تجهيز محولات توزيع سعة 400 كفا 0.4/11 كف"
+  },
+  "a44008e3-f287-446b-8dc5-70540d575200": {
+    "version_id": "75e8edbf-f5c4-4bcc-8055-e2576e72c1c6",
+    "deadline": "2026-12-01 10:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "LMD-16/2026",
+    "title": "تنفيذ اعمال مدنية انشاء ملحق طابق ارضي واستعلامات لبناية مقر فرع توزيع كهرباء شمال ديالى"
   },
   "5a411bd4-6708-4a47-bdce-4d7be0b7a38f": {
     "version_id": "81b3ed67-b9be-49d9-be49-e3d6248bb987",
@@ -1006,6 +870,14 @@
     "extension_count": 0,
     "number": "47L/2026",
     "title": "انشاء محطة الغاز السائل للسيارات في النجف الاشرف في موقع عمود 110"
+  },
+  "eec62f59-6d9e-4aeb-bac3-69ea8539e6e9": {
+    "version_id": "3ee5219f-99cb-49c8-9bb4-2b0d84bc7f13",
+    "deadline": "2026-12-02 14:30",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "A/2026/2",
+    "title": "مناقصة عامة لتجهيز الأدوية"
   },
   "134ac991-a866-49f0-ad1f-d44564fab1af": {
     "version_id": "7e63d260-7d76-4217-ae71-49a5d672ae0a",
@@ -1159,6 +1031,14 @@
     "number": "ATU/4",
     "title": "ATU/4"
   },
+  "b2cb0f74-6feb-4699-a016-6b47e72c3922": {
+    "version_id": "84f5c30b-3a90-4b78-871e-1ad324678e64",
+    "deadline": "2026-12-06 13:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "8 / 2026",
+    "title": "تنظيف بناية مقر الهياة وبناية شعبة التكييل"
+  },
   "d8271e9d-0084-41cf-aff8-69fc5e12b179": {
     "version_id": "5ddc658f-39f3-41af-9391-57862cbb00e9",
     "deadline": "2026-12-06 13:00",
@@ -1174,6 +1054,14 @@
     "extension_count": 0,
     "number": "9726048",
     "title": "تجهيز ( منظوم Disc Oil)"
+  },
+  "479d4230-0c8e-4232-b5e8-b8cd499ed2d3": {
+    "version_id": "6cbfe8f4-1bf8-491a-bdb3-24aac4dc2e74",
+    "deadline": "2026-12-07 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "1606/2026",
+    "title": "مسحوق كيمياوي جاف"
   },
   "4c82a5d9-12d4-4fe6-9f43-b92cb233d439": {
     "version_id": "6e0e610a-70a8-4209-8e38-d969c04e3a97",
@@ -1270,6 +1158,14 @@
     "extension_count": 0,
     "number": "53/ب/2026",
     "title": "انشاء حوض كونكريتي عدد/3 في محطة PS3- النجف الأشرف"
+  },
+  "0ca0e428-d76b-42f1-90fd-e2a14a046fd6": {
+    "version_id": "3447e3f1-d64e-4937-9e2b-a375570b71cb",
+    "deadline": "2026-12-09 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "ت2026/11",
+    "title": "التأمين على موظفي وممتلكات شركة المشاريع النفطية التابعة لوزارة النفط لعام 2027"
   },
   "b849cf4a-13bc-4102-9581-fb47e4fa47fe": {
     "version_id": "ccb81d0e-cbce-4a89-aaae-06f268621568",
@@ -1383,6 +1279,22 @@
     "number": "SUP 91 NUS/2026/97",
     "title": "مستلزمات جراحة عصبية / نبيذة أساسي ونبيذة ثانوي"
   },
+  "69d2b7b7-3420-4ebd-a899-347aead676ad": {
+    "version_id": "9c370cd4-9ea2-479e-ad49-c84bb3294c4b",
+    "deadline": "2026-12-16 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "(8) لسنة 2026/استثمارية /2024",
+    "title": "بناء مدرسة ابتدائية في منطقة القوسيات 12 صف مساحات خاصة في محافظة نينوى /قضاء تلكيف"
+  },
+  "444b53da-7874-43eb-b6df-8bb1b9853b91": {
+    "version_id": "8e2d2cd8-d4fd-4e1f-87b3-2c13ff7e7071",
+    "deadline": "2026-12-16 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "(9) لسنة 2026/استثمارية /2024",
+    "title": "بناء مدرسة ثانوية 12 صف تصميم محمد الدرة في قرية خازوكة في محافظة نينوى"
+  },
   "c1a5de71-0c6c-4d8c-bd53-aaa3e0bdddaf": {
     "version_id": "aa4a5f31-0f37-49fd-9c8c-b77b287e326a",
     "deadline": "2026-12-16 12:00",
@@ -1422,6 +1334,14 @@
     "extension_count": 0,
     "number": "120",
     "title": "اعلان فرصة استثمارية"
+  },
+  "3a9a69e6-c538-4174-b799-7fd26961ca19": {
+    "version_id": "71ab6f52-49e5-470b-95a6-1c246acee51e",
+    "deadline": "2026-12-18 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "4052",
+    "title": "مجمع تجاري في قضاء الصويرة"
   },
   "8fe1c754-1745-41d2-9fde-8569619ccf2a": {
     "version_id": "5c1217c3-e382-4e66-914b-5a8bbfbf8adf",
@@ -1479,22 +1399,6 @@
     "number": "935/2025",
     "title": "تجهيز سيارات اطفاء عدد 8"
   },
-  "44ca974e-8f6d-40c9-8556-875724c03922": {
-    "version_id": "9c7615bf-1e32-496e-a5b5-72bf925ce725",
-    "deadline": "2026-11-19 14:30",
-    "status": "Published",
-    "extension_count": 1,
-    "number": "SUP 91 NUS/2026/28R",
-    "title": "مستلزمات الجراحة العصبية / نبيذة أساسي"
-  },
-  "fb180f44-f965-4940-b1bf-c40c07f18c47": {
-    "version_id": "5c99d92a-c3fc-45a0-b6a6-992d28a379cb",
-    "deadline": "2026-11-19 14:30",
-    "status": "Published",
-    "extension_count": 1,
-    "number": "Vacc-2-2026-A",
-    "title": "مناقصة عامة لتجهيز الأدوية"
-  },
   "042e9d85-b270-4f18-8160-a603df911e5b": {
     "version_id": "a0601b0c-0a3e-400a-b528-67e6f10e966f",
     "deadline": "2026-11-22 11:00",
@@ -1542,6 +1446,38 @@
     "extension_count": 1,
     "number": "ت2026/3",
     "title": "تصليح محولات توزيع جهد 0.4/11 كف مختلفة السعات"
+  },
+  "e0c6d61e-a0e6-458e-90b9-a594d52a1bad": {
+    "version_id": "53238bdf-98fc-48a6-8a52-1f5febd09a3d",
+    "deadline": "2026-11-24 12:00",
+    "status": "Published",
+    "extension_count": 1,
+    "number": "ت2026/6",
+    "title": "تجهيز اسلاك المنيوم نوع ACSRمختلفة"
+  },
+  "c445db54-9e3a-446f-b605-efd15300f649": {
+    "version_id": "cbb02156-d61d-4a64-ad45-8b10ac857cad",
+    "deadline": "2026-11-24 12:00",
+    "status": "Published",
+    "extension_count": 1,
+    "number": "ت2026/7",
+    "title": "تجهيز أعمدة حديدية مدورة مغلونة (13) م مختلفة مع الملحقات"
+  },
+  "1573ff3a-d470-44fb-8f46-eb89fbe0ef5b": {
+    "version_id": "85bfe849-01a3-4406-9447-0006456c2b7a",
+    "deadline": "2026-11-24 12:00",
+    "status": "Published",
+    "extension_count": 1,
+    "number": "ت2ك/2026",
+    "title": "تجهيز محولات توزيع جهد 0,4/11 ك.ف سعة 400 كفا بكمية 50 محولة"
+  },
+  "6473f8ab-1d84-447a-98d3-784242ae5a88": {
+    "version_id": "2bedc10d-09d4-4963-b0a6-8b81f703940f",
+    "deadline": "2026-11-24 12:00",
+    "status": "Published",
+    "extension_count": 1,
+    "number": "ت3ك /2026",
+    "title": "تجهيز محولات توزيع جهد 0.4/11كف سعة 250 كفا بكمية 60 محولة"
   },
   "65304ece-b2d2-43fb-94bc-088c5dad1d3c": {
     "version_id": "dd53c3cc-6b31-4d74-8dad-98936575b977",
@@ -1686,6 +1622,14 @@
     "extension_count": 1,
     "number": "MOE-HQ9/2026 - المرحلة الاولى",
     "title": "وثيقة طلب التأهيل المسبق (RFI) لاختيار وتأهيل المستثمرين الراغبين بالمشاركة في عقد امتياز الاستثمار في إدارة وتشغيل وتطوير شبكات توزيع الطاقة الكهربائية في العراق / محافظة النجف الاشرف"
+  },
+  "fb180f44-f965-4940-b1bf-c40c07f18c47": {
+    "version_id": "39d0a6a3-8f5f-4f07-80dc-b9d4a805c352",
+    "deadline": "2026-11-26 14:30",
+    "status": "Published",
+    "extension_count": 2,
+    "number": "Vacc-2-2026-A",
+    "title": "مناقصة عامة لتجهيز الأدوية"
   },
   "287764ce-d292-47ce-9f04-c8d802fe05c8": {
     "version_id": "aa6e41e9-111a-43bb-b467-5f0fcef4142b",
