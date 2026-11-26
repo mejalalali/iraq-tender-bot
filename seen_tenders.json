@@ -1,92 +1,4 @@
 {
-  "0497e40b-e9df-496b-8dca-ef4958cbeda8": {
-    "version_id": "dc564420-f374-49b9-ac08-7edf1e52b92f",
-    "deadline": "2026-11-26 10:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "23/2026",
-    "title": "تجهيز نوزلات UP Stream لمحطة كهرباء الرميلة الغازية"
-  },
-  "93a1aa90-40b0-4dd9-a5d9-dca47be577de": {
-    "version_id": "6d5bf4a2-5be1-473c-9e45-90f111b18ccf",
-    "deadline": "2026-11-26 11:50",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "ف . ك . / 1 / 2026",
-    "title": "تجهيز محولات توزيع جهد 11 / 0.4 ك. ف. سعة 400 ك. ف. أ"
-  },
-  "b0fa421c-7e67-4b98-be69-0895e9d7cd16": {
-    "version_id": "3f0671d5-9ebc-4201-88ad-16811e237abe",
-    "deadline": "2026-11-26 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "5",
-    "title": "مشروع تجاري"
-  },
-  "6f67f59d-940b-4609-813d-d9528555de02": {
-    "version_id": "e2d832de-2cf9-4e0f-adee-822d2ee60ee5",
-    "deadline": "2026-11-26 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "6",
-    "title": "مشروع تجاري"
-  },
-  "b3d589ed-86d6-42ed-9aab-046390d9bb2d": {
-    "version_id": "4842a1c1-2ddd-489e-ba70-21984b079fa8",
-    "deadline": "2026-11-26 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "MT-4-2026",
-    "title": "نقل منتسبي فرع شبكة الانبار"
-  },
-  "6bf04c52-68dc-4751-921d-fb5b440c1962": {
-    "version_id": "268cb651-0658-44be-b15a-f5bcd9c1321a",
-    "deadline": "2026-11-26 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "انشاء خط انتاج الورق( اكياس الاسمنت ،ورق الفلوتنك، اللاينر، التغليف)والوحدات الساندة",
-    "title": "اعلان فرصة استثمارية بموجب عقد مشاركة"
-  },
-  "671e9fb5-b01e-4ab6-9dfd-e3f0204badea": {
-    "version_id": "50bdafa1-75a6-4bfa-8b83-89c56869b2b2",
-    "deadline": "2026-11-26 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "انشاء معمل الكلور والصودا الكاوية في مصنع ورق ميسان",
-    "title": "اعلان فرصة استثمارية بموجب عقد مشاركة"
-  },
-  "b3972c53-fca6-4dd5-959b-1ba1fd0a8562": {
-    "version_id": "d8c547c8-3145-4b9b-90b1-0d27696d4abb",
-    "deadline": "2026-11-26 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "انشاءخط جديد لانتاج المقوى والوحدات الخدمية والساندة في مصنع ورق ميسان",
-    "title": "اعلان فرصة استثمارية"
-  },
-  "2f468bf2-b813-45b6-bf82-2c0b0296bc04": {
-    "version_id": "07ae08fd-fd8f-4eb9-a202-af2c1b399095",
-    "deadline": "2026-11-26 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "مشروع انتاج مادة الفورفورال في مصنع ورق البصرة",
-    "title": "اعلان فرصة استثمارية بموجب عقد مشاركة"
-  },
-  "40306059-5ef7-4835-a168-519dca85f264": {
-    "version_id": "2434171e-d596-4b18-b4b8-82072799a024",
-    "deadline": "2026-11-26 14:30",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "MED -16-2026",
-    "title": "مناقصة عامة لتجهيز الأدوية"
-  },
-  "c1ec4178-7ed3-4796-942e-9e01f14c8376": {
-    "version_id": "332aebe7-2b8d-4a0f-8b73-49452aa233b6",
-    "deadline": "2026-11-26 14:30",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "SUP 94/2026/87",
-    "title": "مستلزمات ENT / هجينة أساسي"
-  },
   "edb541a2-2996-4610-b256-fe12f24ab16e": {
     "version_id": "cc4c77f0-1fe5-4547-81c8-369751d3985d",
     "deadline": "2026-11-29 10:00",
@@ -455,14 +367,6 @@
     "number": "L1S-160",
     "title": "تجهيز مواد احتياطية لصناديق التروس الخاصة بابراج التبريد للمرحلتين الاولى والثانية لقسم التورباين لمحطة كهرباء واسط الحرارية"
   },
-  "b804c151-66a3-4c2d-8e55-1a1f6da7ea11": {
-    "version_id": "c38bebab-2f58-42f5-9d3c-2e3af152e2e1",
-    "deadline": "2026-12-01 13:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "11-26-2397-D",
-    "title": "TWO INTEGRATED MOBILE LABORATORICS FOR THE EXPORTED CRUDE OIL SPECIFICATIONS FROM BASRA AND KHOR AL AMAYA OIL TERMINALS تجهيز مختبرين متكاملين متنقلين لتحليل مواصفات النفط الخام المصدر من مينائي البصرة وخور العمية النفطيين"
-  },
   "ad5b827f-69e3-46eb-8d71-f592e53b6abc": {
     "version_id": "9fc4942a-bf56-4493-bb9e-0b9e8a68b0c6",
     "deadline": "2026-12-01 14:30",
@@ -582,14 +486,6 @@
     "extension_count": 0,
     "number": "1/11/2026",
     "title": "اعلان مناقصة رقم 1 للمرة الاولى الخاصة بأعمال متابعة وفحص وتدقيق كافة الاجراءات والبرامج والانظمة والمعدات لمشاريع الاتمتة"
-  },
-  "5073bee3-7e97-4e52-b086-3b5ac60ea880": {
-    "version_id": "4a3befde-7e81-4aa2-8d6f-c7130892938e",
-    "deadline": "2026-12-03 12:00",
-    "status": "Published",
-    "extension_count": 0,
-    "number": "2026/1",
-    "title": "مناقصة أنشاء بناية متكاملة - كلية طب الاسنان"
   },
   "32d13a23-684f-4583-b2aa-ee2725e71eca": {
     "version_id": "e0d2b2ec-7ce0-41db-89b4-b9dd73b543c5",
@@ -871,13 +767,21 @@
     "number": "9013/26/08",
     "title": "تجهيز رغوة اطفاء فلورو بروتينية (اعلان اول)"
   },
-  "90cbf76b-99f3-4474-9162-2ee62a32ba66": {
-    "version_id": "5513091d-15fc-4d6c-a010-bb88600f859f",
-    "deadline": "2026-12-07 14:30",
+  "7007da9e-d917-4791-a4f5-be082a12902d": {
+    "version_id": "28152cac-bfa8-4a31-b3cd-8a62644cb560",
+    "deadline": "2026-12-07 12:00",
     "status": "Published",
     "extension_count": 0,
-    "number": "SUP 91 NUS/2026/92",
-    "title": "مستلزمات جراحة العصبية / معمرة أساسي"
+    "number": "ش.ب/2026/24",
+    "title": "خدمة تأمين ضد الحريق لمخازن فرع توزيع كهرباء الكرخ"
+  },
+  "1bfadaec-eba3-4c4f-bc60-5efb37ce07da": {
+    "version_id": "624091b4-9542-45d0-a9b9-b7ac7f56d115",
+    "deadline": "2026-12-07 13:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "9/م/ب ن م/ 2026",
+    "title": "تجهيز ونصب وربط وتشغيل خلية PCR عدد/24 لمشروع منظومتي التأريض ومانعة الصواعق في مستودع الطوبة النفطي"
   },
   "27337dac-4176-44e8-bcee-22ab53a331a5": {
     "version_id": "c705c9b0-d1f0-4258-9bbf-0831cf6f20bd",
@@ -902,6 +806,14 @@
     "extension_count": 0,
     "number": "SN/31-2026",
     "title": "تجهيز مواد احتياطية للوحدات f.6 لمحطة كهرباء الشهيد المهندس عبدالله حمزة الغازية"
+  },
+  "240bd1c9-1625-4d38-bb69-a6ddf361ef71": {
+    "version_id": "1b51d549-263b-45b1-a35a-cdb3ffc20047",
+    "deadline": "2026-12-08 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "ش.ب/2026/25",
+    "title": "خدمة تأمين ضد الحريق لمخازن فرع توزيع كهرباء الرصافة"
   },
   "f8a832b9-12e6-46b1-a49c-36ac96b75cb2": {
     "version_id": "84035201-129f-4b56-bc4d-161f15833d9d",
@@ -959,6 +871,14 @@
     "number": "ت2026/11",
     "title": "التأمين على موظفي وممتلكات شركة المشاريع النفطية التابعة لوزارة النفط لعام 2027"
   },
+  "16851928-11fe-4b30-8230-4b8d8d5afa8f": {
+    "version_id": "1eea3b54-fb86-49fb-9af8-2ab29b39dc4c",
+    "deadline": "2026-12-09 13:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "2026/1",
+    "title": "محاكي ورشة التوربينات"
+  },
   "f9b3a997-7ed4-4df2-9f60-21bd479bc84e": {
     "version_id": "b35bca16-78e3-460c-a651-4bdcd1b820f8",
     "deadline": "2026-12-09 13:00",
@@ -975,6 +895,14 @@
     "number": "المناقصة 15 - 2026 الطلبية 559 - 2026",
     "title": "تجهيز ماكنة لحام بالقوس الغاطس مع ملحقاتها"
   },
+  "b9d3864d-036a-4a0c-b7fa-4a2616bc79e8": {
+    "version_id": "cce48cb2-dc3a-47c4-8956-a429bec7da9a",
+    "deadline": "2026-12-09 14:30",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "LAB 86-2026-13A",
+    "title": "مستلزمات ( أمراض الدم )"
+  },
   "b3b1dc80-fb0b-4cb8-9cc6-9bdd692b66b2": {
     "version_id": "df90ddc6-55b8-4b9c-8321-969044a4073f",
     "deadline": "2026-12-10 11:00",
@@ -982,6 +910,14 @@
     "extension_count": 0,
     "number": "4-2026",
     "title": "مناقصة رقم (4/مولدة /2026 )"
+  },
+  "28421a2b-71b3-47fa-86f9-103bff0779d7": {
+    "version_id": "c3078292-9684-4fc1-adb2-84a41491ddc2",
+    "deadline": "2026-12-10 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "N-3-2026",
+    "title": "تصليح ريش التورباين للصف الثاني والثالث المتحرك المبرد + 13DC"
   },
   "f7d0957c-8367-4b0e-965c-f26cdef4f8e4": {
     "version_id": "98fda59d-e1b8-48a0-ab21-05da52082415",
@@ -1022,6 +958,14 @@
     "extension_count": 0,
     "number": "HG-3-2026",
     "title": "ربط خزانات LDO لوحدات GE مع خزانات LDO للوحدة الخامسة"
+  },
+  "7475d9b6-ca65-40b1-b672-ef83400fb3b4": {
+    "version_id": "813570f7-66dc-439c-abc9-012b3014f22f",
+    "deadline": "2026-12-13 14:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "2/2026",
+    "title": "تجهيز وتشغيل منظومة مجهز قدرة (UPS) للمصاعد في مستشفى الشهيد غازي الحريري للجراحات التخصصية"
   },
   "1ec6c8e0-a933-43c7-a982-fd358934c3dc": {
     "version_id": "a1a49883-61d8-466f-bbe5-37dcde296aac",
@@ -1119,6 +1063,14 @@
     "number": "L1S-166",
     "title": "تجهيز محركات كهربائية ذات جهد عالي للوحدات التوليدية المرحلة الثانية وحسب المواصفات المعدة في اصل المناقصة لمحطة كهرباء واسط الحرارية"
   },
+  "e10f5895-75e5-41d3-8a92-fe7df3a1162b": {
+    "version_id": "32e750bc-d2e2-492c-9a3c-db7459685ea1",
+    "deadline": "2026-12-15 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "N-6-2026",
+    "title": "تجهيز وتنصيب منظومة الأطفاء الذاتي لمحطة النجف الغازية"
+  },
   "e4124857-d76f-4419-8db6-bd45d79d90ef": {
     "version_id": "39899e7d-059f-4ee7-8c0b-888c16161970",
     "deadline": "2026-12-15 13:00",
@@ -1166,6 +1118,14 @@
     "extension_count": 0,
     "number": "53/2026",
     "title": "New complete heavy duty horizontal centrifugal pump with spare parts item 2216"
+  },
+  "2410f509-8518-4516-b77a-6a4552c4f60b": {
+    "version_id": "cdfcf237-6eb3-458f-a27d-f3c6e5118478",
+    "deadline": "2026-12-16 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "5558\\QR-01\\2026\\Rev.01",
+    "title": "تصميم وتجهيز مضخات عدد(2) (650م3/س) مع الملحقات في مصفى البصرة لمشروع تصميم وتجهيز وتنفيذ خزانات النفط الخام سعة 30000م3"
   },
   "a82ca678-e02f-496c-adb0-4781984f5429": {
     "version_id": "c1d47fe2-fc50-4ff0-9d43-4735e8cec354",
@@ -1255,6 +1215,14 @@
     "number": "38/2026",
     "title": "تجهيز ازرار تشغيل و اطفاء"
   },
+  "22caffad-c257-4e19-83e1-fd7ff84c0d51": {
+    "version_id": "c9e3194d-5719-4eaf-bc44-6ef031c0567f",
+    "deadline": "2026-12-21 13:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "13260430",
+    "title": "تجهيز Perchloro Ethylene PCE"
+  },
   "2f716875-6d04-49bc-bae4-223254cc7c13": {
     "version_id": "81474414-8af5-4506-b62a-bd09d2b20667",
     "deadline": "2026-12-21 14:30",
@@ -1279,6 +1247,22 @@
     "number": "7 / 2026",
     "title": "انشاء محطة تعبئة وقود صدر اليوسفية الحكومية"
   },
+  "cddc9550-54cf-4532-a733-1bfc7c5fbd3c": {
+    "version_id": "21434d5c-1dab-4312-8220-b8a7746c433c",
+    "deadline": "2026-12-23 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "(15) لسنة 2026/استثمارية /2024",
+    "title": "(بناء مدرسة 12 صف (متوسطة) في قرية خراب العاشق )في قضاء تلعفر في محافظة نينوى"
+  },
+  "9f5e1747-8fe3-499b-8be6-7e7a28bb00a5": {
+    "version_id": "78915c90-d590-49cf-a1d6-8e5a2f70fa70",
+    "deadline": "2026-12-23 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "(2)لسنة 2026/استثمارية/2023",
+    "title": "تأهيل وتطوير الشبكات الكهربائية لقرى(كبرلي,خرابة سلطان,تل لبن,كزكان,قرقشة,البحرة,الخضر/السلامية/النايفة/المخلط/شنف/قرقشة/قرةشور/النعمانية/السيد حمد/العدلة)في الحمدانية في محافظة نينوى"
+  },
   "71b4876f-388e-483f-81c1-2d0f95e5b69a": {
     "version_id": "92cbfcef-f0fb-467a-a4f2-effe6bf93ffe",
     "deadline": "2026-12-23 12:00",
@@ -1286,6 +1270,22 @@
     "extension_count": 0,
     "number": "24/2026",
     "title": "Supply goods to update and operate the meter system in De Qar refinery"
+  },
+  "cfcdaba6-859f-43d8-a25f-5c6fe09692c5": {
+    "version_id": "4dae1165-6b0c-4291-831f-7b686c6d488d",
+    "deadline": "2026-12-23 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "47/ب/2026",
+    "title": "اعمال صيانة جامع ابي الفضل العباس (ع) في الموفقية"
+  },
+  "ef62c5d7-456d-40f4-97a5-1df7eab8e306": {
+    "version_id": "089e9829-b113-4ebb-bb85-fff0a5d879e7",
+    "deadline": "2026-12-23 13:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "13260410",
+    "title": "تجهيز مادة مذيب الفرفرال"
   },
   "0717704a-e351-434f-9306-26bf46a13d3e": {
     "version_id": "7dd21b9c-16d3-4904-bb79-857fe6a1ec68",
@@ -1311,6 +1311,14 @@
     "number": "SUP 89/2026/77R7",
     "title": "مستلزمات العقم وأطفال الأنابيب / معمرة أساسي"
   },
+  "9826c042-aa0a-4e04-abee-80bb6e0cda0e": {
+    "version_id": "e9dfc9ef-62a2-48e9-8db9-922521a0c323",
+    "deadline": "2026-12-25 12:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "4448",
+    "title": "انشاء مجزرة عصرية"
+  },
   "6003cc32-fa04-403a-a706-b94303d7d578": {
     "version_id": "083e5823-3c4b-445d-94e0-03087a4c801b",
     "deadline": "2026-12-26 10:00",
@@ -1318,6 +1326,14 @@
     "extension_count": 0,
     "number": "29/2026",
     "title": "تأهيل و تشغيل و صيانة محطة ديزلات القرنة"
+  },
+  "64b3b25f-b19a-41c3-a186-7c9bf8383133": {
+    "version_id": "d6841969-72ba-4684-85b8-f0a6bd6bc5de",
+    "deadline": "2026-12-27 11:00",
+    "status": "Published",
+    "extension_count": 0,
+    "number": "ش ن و - خ - 26082",
+    "title": "تجهيز مادة كاسر استحلاب"
   },
   "0664e980-3877-4744-9767-1919db238d0e": {
     "version_id": "d8342ae6-4bf3-4692-b817-ef20b2497ab1",
@@ -1358,14 +1374,6 @@
     "extension_count": 0,
     "number": "27-2026",
     "title": "تجهيز مضخات النفط الاسود وبعدد اثنين مع المواد الاحتياطية الخاصة بها."
-  },
-  "fb180f44-f965-4940-b1bf-c40c07f18c47": {
-    "version_id": "39d0a6a3-8f5f-4f07-80dc-b9d4a805c352",
-    "deadline": "2026-11-26 14:30",
-    "status": "Published",
-    "extension_count": 2,
-    "number": "Vacc-2-2026-A",
-    "title": "مناقصة عامة لتجهيز الأدوية"
   },
   "4306caee-ded8-405a-a668-c002d6469ae6": {
     "version_id": "a295191f-b53a-44f0-b107-f54aeb7eeb73",
@@ -1455,6 +1463,14 @@
     "number": "2002/26/75",
     "title": "تجهيز اجهزة معالجة ونمذجة اللباب الصخري (اعلان اول )"
   },
+  "5073bee3-7e97-4e52-b086-3b5ac60ea880": {
+    "version_id": "25c687f5-942a-4972-82e6-f948761940f3",
+    "deadline": "2026-12-08 12:00",
+    "status": "Published",
+    "extension_count": 1,
+    "number": "2026/1",
+    "title": "مناقصة أنشاء بناية متكاملة - كلية طب الاسنان"
+  },
   "c856035b-c2e8-4ee3-936f-97aad98568b5": {
     "version_id": "73b105f4-2c0d-498e-80a2-0864fff68fd5",
     "deadline": "2026-12-08 14:30",
@@ -1503,6 +1519,14 @@
     "number": "66/2026/35",
     "title": "تجهيز جهاز Densitometers, Bone, Dual-Energy, Absorptiometry"
   },
+  "b804c151-66a3-4c2d-8e55-1a1f6da7ea11": {
+    "version_id": "9e2a549d-cafc-46e8-94a1-c762165571e1",
+    "deadline": "2026-12-15 13:00",
+    "status": "Published",
+    "extension_count": 1,
+    "number": "11-26-2397-D",
+    "title": "TWO INTEGRATED MOBILE LABORATORICS FOR THE EXPORTED CRUDE OIL SPECIFICATIONS FROM BASRA AND KHOR AL AMAYA OIL TERMINALS تجهيز مختبرين متكاملين متنقلين لتحليل مواصفات النفط الخام المصدر من مينائي البصرة وخور العمية النفطيين"
+  },
   "8cee145a-f48d-4605-80fa-1afe25a81aaf": {
     "version_id": "c8928cb4-fb5f-4370-818a-263ce58274e1",
     "deadline": "2026-12-16 14:30",
@@ -1518,6 +1542,14 @@
     "extension_count": 1,
     "number": "SUP 87/2026/90",
     "title": "مستلزمات جراحة القلب / نبيذة أساسي"
+  },
+  "90cbf76b-99f3-4474-9162-2ee62a32ba66": {
+    "version_id": "e982ad48-f37d-4704-9d5e-9589a157cf53",
+    "deadline": "2026-12-21 14:30",
+    "status": "Published",
+    "extension_count": 1,
+    "number": "SUP 91 NUS/2026/92",
+    "title": "مستلزمات جراحة العصبية / معمرة أساسي"
   },
   "b106ba77-64ba-4609-a82e-de369609f617": {
     "version_id": "1d39995a-ac37-4aa6-93de-4fe0f91e2b59",
